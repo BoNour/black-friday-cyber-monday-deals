@@ -49,11 +49,13 @@
 | --- | --- | --- | --- |
 | [1Password](https://1password.com/pricing/password-manager) | Скидка около 25% · первый год | От $2.99 / месяц · оплата за год | — |
 | [anon.li](https://anon.li/pricing) | Скидка 40% · первый год | $41.69 / год · Plus, первый год | `BLKFRI40` |
+| [AppSecD](https://dedsecops.com/pricing) | скидка 30% · все платные тарифы | от $14 / месяц · Starter | — |
 | [Aster Mail](https://astermail.org/) | Скидка 50% | $4.49 / месяц | — |
 | [CyberGhost](https://www.cyberghostvpn.com/) | Скидка 83% | $61.32 / 28 месяцев | — |
 | [ExpressVPN](https://www.expressvpn.com/pricing) | Скидка до 80% | От $83.72 / 28 месяцев | — |
 | [Imunify360](https://www.imunify360.com/) | Скидка до 40% | — | — |
 | [IPVanish](https://www.ipvanish.com/black-friday/) | Смотреть предложение | От $2.19 / месяц · тариф на 2 года | — |
+| [Leave Me Alone](https://leavemealone.com/pricing/) | скидка 83% · годовой тариф Unlimited | $59 / год · безлимитные почтовые ящики, цена при продлении та же | — |
 | [NordPass](https://nordpass.com/black-friday/) | Скидка до 50% · годовой тариф | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | Скидка до 78% | От $3.49 / месяц · предоплаченный тариф | — |
 | [OffSeq Breach](https://breach.offseq.com/en#pricing) | Скидка 50% | — | `BLACK` |
@@ -65,6 +67,7 @@
 | [Proton Pass](https://proton.me/pass/black-friday) | Скидка до 60% | $23.88 / год · Plus, первый год | — |
 | [Proton VPN](https://protonvpn.com/black-friday) | Скидка 70% · Plus, первый год | $35.88 / первый год · Plus | — |
 | [PureVPN](https://www.purevpn.com/black-friday) | Скидка 87% | $101.55 / 5 лет | — |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | скидка 50% Pro Lifetime (обычная цена $29.99 USD) | $14.99 USD · бессрочно | `BFCM26` |
 | [Surfshark](https://surfshark.com/pricing) | Скидка до 90% | От $67.23 / 27 месяцев | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | Скидка 30% | $20.30 · Standard | `BF2026` |
 
@@ -79,10 +82,13 @@
 | --- | --- | --- | --- |
 | [1bench](https://1bench.dev/black-friday) | Скидка 50% | $99.00 · бессрочно | `FCBF26` |
 | [Aba Search and Replace](https://www.abareplace.com/) | Скидка 50% | $15.00 · бессрочно | `Sale2026` |
+| [Akev](https://akev.dev/pricing) | скидка 30% | $34.30 · разовый платёж, лицензия Pro | `BLACKFRIDAY` |
+| [APIKO](https://apiko.app/) | бонусные кредиты: 10% · платные пополнения, до 2026-11-27 (PT) | — | — |
 | [Atelier](https://appsbymo.app/atelier/) | Скидка 50% | — | `BLACKFRIDAY` |
 | [BucketMate](https://www.bucketmate.app/pricing) | Скидка 40% | $23.40 · бессрочно | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | Скидка 40% | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | Скидка 30% | $6.99 · стандартная лицензия | `MACPLUSBLACKFRIDAY26` |
+| [data-peek](https://www.datapeek.dev/pricing) | скидка 40% · 2026-11-26–2026-12-01 (PT) | $17.40 / год · Pro | — |
 | [Device MCP](https://devicemcp.ai/pricing) | Скидка 30% | $48.30 · бессрочно | `BF2026` |
 | [DevIntern](https://devintern.com/pricing/) | Скидка 40% · первый счёт · 20 ноября – 1 декабря 2026 | $59.40 · разовая Supporter License или первый месяц Team | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | Скидка 60% | — | `BLACKFRIDAY2026` |
@@ -96,16 +102,22 @@
 | [Lidnight](https://lidnight.app/en/buy/) | Скидка 50% | — | `BF50` |
 | [Looq](https://parcse.com/looq) | Скидка 10% | $9.00 · разовый платёж | `PARCSEBLACKFRIDAY` |
 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Скидка 60% | $3.82 · разовый платёж | — |
+| [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | скидка около 20% · до 2026-11-30 (PT); 500 активаций | US$4.79 · бессрочная лицензия на одного пользователя | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) |
 | [Piloterr](https://www.piloterr.com/blackfriday) | Скидка 50% · первые 3 месяца | От $24.50 / месяц · первые 3 месяца | `BLACKFRIDAY50` |
 | [PortDroid](https://portdroid.net/black-friday-2026) | Скидка 50% | $4.69 · бессрочно | `CYBER_2026` |
 | [Proxyman](https://proxyman.com/pricing) | Скидка 30% | $62.30 · Standard | `BF2026` |
+| [Pulsetic](https://pulsetic.com/black-friday) | скидка 35% · первый платёж · 2026-11-16–2026-12-03 | $58.50 / год · Solo, первый год | `BLACKFRIDAY35` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | Скидка 50% | $44.50 · разовый платёж | `BFCM2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Скидка 50% | $4.99 · разовый платёж | — |
+| [SaaScaffold](https://saascaffold.com/pricing) | скидка 50% · 2026-11-21–2026-12-06 | $49.00 · разовый платёж | — |
+| [Social Fetch](https://www.socialfetch.dev/black-friday) | двойные кредиты · первый месяц новых месячных тарифов, первые 3 месяца новых годовых тарифов и пакеты кредитов | $59.00 · разовый платёж пакет Growth, 50,000 кредитов | — |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12) | Скидка до 50% | — | — |
 | [SSH Workbench](https://sshworkbench.com/) | Скидка 50% | $99.00 · бессрочно | `FCBF26` |
 | [TablePlus](https://tableplus.com/pricing) | Скидка 25% | $74.25 · разовый платёж | `BLACK_FRIDAY_2026` |
 | [TablePro](https://tablepro.app/black-friday) | Скидка 40% | $47.40 · разовый платёж | `BLACKFRIDAY2026` |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | Скидка 30% | $20.30 · Standard | `BF2026` |
+| [TeaGo](https://teago.artsvit.com/) | скидка около 20% · до 2026-11-30 (PT); 500 активаций | US$3.99 · бессрочная лицензия на одного пользователя | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) |
+| [Toplify](https://toplify.app) | скидка $40 · 2026-11-15–2026-12-01 | $49.99 USD · бессрочно (ранее $89.99) | [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) |
 | [VMPal](https://vmpal.com/pricing) | Скидка 25% | $51.75 · разовый платёж | — |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Скидка 40% | $35.00 · бессрочно | — |
 | [WP Foreman](https://wpforeman.com/black-friday/) | Бессрочное предложение | От $199.00 · бессрочно, 25 сайтов | — |
@@ -124,6 +136,7 @@
 | [Cloudways](https://www.cloudways.com/en/promo-code.php) | Скидка 80% · первые 2 месяца | От $2.20 / месяц · первые 2 месяца | `BFCM802` |
 | [DediRock](https://dedirock.com/) | Смотреть предложение | $9.88 / год | — |
 | [ESN Hosting](https://panel.esnoffical.com/plans) | Скидка 85% · первый месяц | $0.67 · первый месяц | — |
+| [Faivelo](https://faivelo.com/black-friday) | скидка 80% | $12.00 / год | — |
 | [FlyWP](https://flywp.com/black-friday-deals/) | Бессрочное предложение | От $249.00 · бессрочно | — |
 | [Hosting.com](https://hosting.com/black-friday/) | Скидка до 89% | — | — |
 | [Hostinger](https://www.hostinger.com/black-friday) | Скидка до 85% | От $2.24 / месяц · см. период оплаты | — |
@@ -134,6 +147,7 @@
 | [Kinsta](https://kinsta.com/black-friday/) | 3 месяца бесплатно при оплате за год · скидка 50% на первые 3 месяца при ежемесячной оплате · новые клиенты | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | Скидка 30% | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | Смотреть предложение | — | — |
+| [Static.app](https://static.app/black-friday) | скидка 35% · первый платёж · 2026-11-16–2026-12-01 | $39.00 / год · Starter, первый год | `BLACKFRIDAY35` |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Скидка до 60% | — | — |
 
 <a name="ai"></a>
@@ -150,8 +164,11 @@
 | [Blip AI Pro](https://www.blipai.app/) | Скидка 50% · первый год | — | — |
 | [BoltAI](https://boltai.com/pricing) | Скидка 40% | $239.40 · бессрочно | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | Скидка 90% | $63.00 · бессрочно | — |
+| [ConceptViz](https://conceptviz.app/pricing) | бессрочное предложение | $299.00 · бессрочно | — |
 | [Enconvo](https://enconvo.com/pricing) | Скидка 30% · Lifetime и первый платёж Cloud · 20 ноября – 7 декабря 2026 | $41.30 · Standard, бессрочно | — |
+| [FastScribe](https://fastscribe.org/pricing) | скидка $31 · первый год и 6 500 бонусных кредитов · только для аккаунтов без активной подписки | $89.00 / год · Pro, первый год | — |
 | [Fluent 2](https://fluentmac.app/) | Скидка 25% | $36.75 · Basic | `BF2026` |
+| [MakeMidas](https://makemidas.com/pricing) | до 25% бонусных кредитов · пакеты кредитов | $10 · 1,250 кредитов (ранее 1,000) · разовый платёж | — |
 | [Mo](https://appsbymo.app/mo/) | Скидка 50% | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | Скидка 30% | — | `BLFCM2026` |
 | [PDF Pals](https://pdfpals.com/buy) | Скидка 20% на Basic/Plus; бессрочно за $149 | $149.00 · бессрочно | `BF20` |
@@ -162,6 +179,7 @@
 | [SciFig](https://scifig.ai/black-friday) | Дополнительная скидка 20% | $80.00 / год · Starter, первый год | — |
 | [ScribeToAny](https://scribetoany.com/) | Скидка 30% | — | — |
 | [Sintra AI](https://sintra.ai/pricing) | Смотреть предложение | — | — |
+| [Skillry](https://skillry.dev/pricing) | скидка 50% · первый месяц или год Pro; скидка $80 Founding Lifetime | $9.99 / месяц · первый месяц; $79.00 / год · первый год; $169.00 · бессрочно | — |
 | [Slashspace](https://www.slashspace.ai/) | Скидка 51% | $122.01 · бессрочно | `BF2026` |
 | [SmartyTab](https://smartytab.app/) | Скидка 30% | $69.30 · бессрочно | — |
 | [Supacite](https://supacite.com/) | Бессрочное предложение | $89.00 ранний этап; $129.00 следующий этап · бессрочно | `CITEBF` |
@@ -169,7 +187,9 @@
 | [TypingMind](https://www.typingmind.com/) | Скидка 60% | — | `BLACKFRIDAY2026` |
 | [Vinaa](https://www.vinaa.ai/) | Скидка 44% | $39.00 · бессрочно | — |
 | [Vogoo AI](https://vogoo.ai/black-friday) | Скидка 40% | $89.64 / год · Pro | — |
+| [Voibe](https://www.getvoibe.com/pricing/) | скидка 25% · тарифы Dictation и Work, до 2026-11-30 | $149.25 · Dictation бессрочно; $299.25 · Work бессрочно | `BFCM26` |
 | [Wiredesk](https://wiredesk.ai/pricing) | Скидка 30% | От $27.30 / месяц · оплата за год, первый год | `BLACKFRIDAY2026` |
+| [Wovo](https://wovo.one/#pricing) | скидка 50% · годовые тарифы Pro и Max | $72 / год · Pro; $174 / год · Max | — |
 
 <a name="design"></a>
 
@@ -180,8 +200,10 @@
 
 | Продукт | Скидка | Цена по акции | Код |
 | --- | --- | --- | --- |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | бонусные кредиты: 50% · разовые пакеты; до 300 бонусных кредитов · подходящие месячные тарифы, первый месяц | от US$9.90 · разовый платёж; от US$19.90 / месяц · первый месяц | — |
 | [Atmos](https://atmos.style/) | Скидка до 50% | $79.50 · бессрочно | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | Скидка 60% | $9.99 · бессрочно | — |
+| [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | скидка 50% | $39.99 · бессрочно | — |
 | [Bimg AI](https://bimg.ai/black-friday) | Скидка 50% | — | — |
 | [Bindrik](https://bindrik.com/en) | Скидка 43% | $39.00 · разовый платёж | `BLACKFRIDAY2026` |
 | [BirdFrame](https://getbirdframe.com/#black-friday) | Скидка 33% | $19.99 · разовый платёж | — |
@@ -190,26 +212,33 @@
 | [Cutfac](https://cutfac.com/pricing) | Скидка 40% | От $29.40 · разовый платёж | `BF2026` |
 | [Dabbit](https://dabbit.app/) | Скидка 30% | — | `BLACKFRIDAY` |
 | [ElevenLabs](https://elevenlabs.io/pricing) | Смотреть предложение | — | — |
+| [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) | скидка 66% | $10.20 · бессрочно | `ETKBF66` |
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | Скидка 40% | $6.00 · разовый платёж | — |
 | [FaceScreen](https://facescreen.app/) | Скидка 30% | $4.19 · разовый платёж | `FACESCREEN30` |
+| [FixImage](https://fiximage.net/black-friday) | двойные кредиты · первый период подписки и пакеты для подписчиков, до 2026-12-01 (PT) | — | — |
 | [FL Studio](https://www.image-line.com/specials) | Скидка до 50% | — | — |
 | [FluidCast](https://fluidcastapp.com/event.html) | Скидка 50% | — | `BLACKFRIDAY2026LT` |
 | [Fresible Music](https://music.fresible.com/) | Скидка 50% | — | — |
+| [Image to 3D AI](https://imageto3dai.org/black-friday) | двойные кредиты · первый период подписки и пакеты для подписчиков, до 2026-12-01 (PT) | — | — |
+| [ImgVid](https://imgvid.net/black-friday) | двойные кредиты · первый период подписки и пакеты для подписчиков, до 2026-12-01 (PT) | — | — |
 | [inReels](https://www.inreels.ai/pricing) | Скидка 50% | — | `BLACKFRIDAY2026` |
 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/) | Скидка 25% · первый год | $299.70 / год · Pro, первый год | — |
 | [Kavel](https://www.kavel.ai/pricing) | Кредиты ×2 | — | — |
 | [Kensa](https://www.kensa.cc/deals/black-friday) | Скидка 25% | — | — |
 | [KeyScreen](https://keyscreen.app/) | Скидка 30% | $4.19 · разовый платёж | `KEYSCREEN30` |
+| [Keystro](https://keystro.app/#pricing) | скидка 30% · разовые лицензии | $4.89 · Standard; $9.80 · Extended; $27.30 · Team | `BFKEYSTRO26` |
 | [LS Graphics](https://www.ls.graphics/) | Скидка 50% | — | — |
 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/) | Скидка 40% | — | `BLACKFRIDAY26` |
 | [MingCute Animation](https://www.mingcute.com/animation) | Скидка 30% | — | `BF2026` |
 | [MingCute ICONS](https://mgc.mingcute.com/) | Скидка 30% | — | `BF2026` |
 | [MingCute Weather](https://mgcweather.framer.website/) | Скидка 30% | — | `BF2026` |
+| [Motionflare](https://motionflare.ai/pricing) | скидка 50% · первый месяц новых подписок | $14.50 / месяц · Pro, первый месяц; $49.50 / месяц · Max, первый месяц | — |
 | [Nano Banana](https://nanobanana.org/black-friday) | Скидка 50% | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | Скидка 20% | — | — |
 | [Oil Studio](https://studio.oiloil.org/en/) | Скидка 20% (доп. к цене запуска $39; обычная $49) | $31.20 · разовый платёж (2 Mac) | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | Скидка 43% | $3.99 · разовый платёж | — |
 | [Picmal](https://picmal.app/pricing) | Скидка 50% | От $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [PicVideo](https://picvideo.net/black-friday) | двойные кредиты · первый период подписки и пакеты для подписчиков, до 2026-12-01 (PT) | — | — |
 | [Pimosa](https://pimosa.app) | Скидка 40% · Personal и Plus | Personal $17.40 · Plus $29.40 · разовый платёж | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | Скидка 40% · годовой тариф | От $42.48 / год | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | Скидка 30% | $9.80 · разовый платёж | `PRESENTIFY30` |
@@ -217,6 +246,8 @@
 | [Reason Studios](https://www.reasonstudios.com/) | Скидка до 50% | — | — |
 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?mt=8) | Скидка 60% | $17.99 · бессрочно | — |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | Скидка 40% | $3.00 · разовый платёж | `BLACKFRIDAY26` |
+| [RemoveVideoBG.com](https://removevideobg.com/black-friday) | двойные кредиты · пакеты и первый месяц; ещё 6 месяцев кредитов · новые годовые тарифы · до 2026-12-01 (PT) | — | — |
+| [Renderly](https://renderly.video/pricing) | скидка 30% · первый платёж по новой подписке | $20.30 / месяц · Creator, первый месяц | `BLACKFRIDAY2026` |
 | [RenderPixels](https://renderpixels.com/) | Скидка 20% | — | `BF2026` |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | Скидка 40% | $6.00 · разовый платёж | `BLACKFRIDAY26` |
 | [Rindraw](https://rindraw.com/black-friday-2026/) | Скидка 50% | $6.49 · разовый платёж | — |
@@ -234,6 +265,10 @@
 | [SmoothCut](https://smoothcut.studio/pricing) | Скидка 40% | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | Скидка 20% | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | Смотреть предложение | — | — |
+| [Super Resolution](https://superresolution.pro/black-friday) | двойные кредиты · первый период подписки и пакеты для подписчиков, до 2026-12-01 (PT) | — | — |
+| [Unraster](https://unraster.ai/pricing) | скидка 45% · пакет на 150 кредитов | $43.95 · разовый платёж | `BLACKFRIDAY45` |
+| [ViralReel](https://www.viralreel.app/pricing) | скидка до 30% · выбранные разовые пакеты кредитов | US$16.00 · Popular, 180 кредитов; US$28.00 · Creator, 480 кредитов | — |
+| [YIX](https://yix.ai/pricing) | скидка 50% · первый месяц новых месячных тарифов | от US$9.95 / месяц · Starter, первый месяц | — |
 
 <a name="web"></a>
 
@@ -252,6 +287,7 @@
 | [Framer](https://www.framer.com/pricing) | Смотреть предложение | — | — |
 | [GutSlider Pro](https://gutslider.com/black-friday/) | Скидка до 40% | От $69.00 · бессрочно | — |
 | [HextaUI Pro](https://hextaui.com/pricing) | Скидка до 40% | $49.00 · ранняя цена | — |
+| [Liite Lifetime Bundle](https://liite.co/lifetime) | скидка 83% | $249.00 · бессрочно | — |
 | [MingCute UI](https://ui.mingcute.com/) | Скидка 30% | — | `BF2026` |
 | [Must-Have Plugins](https://musthaveplugins.com/offer/) | Скидка до 70% | — | — |
 | [Plugin Wizards](https://pluginwizards.com/black-friday/) | Скидка 40% | — | `WIZARDS40` |
@@ -259,6 +295,8 @@
 | [Scrollsequence](https://beta.scrollsequence.com/black-friday-cyber-monday-deals) | Скидка 50% | — | — |
 | [Shadcn.io](https://www.shadcn.io/pricing) | Смотреть предложение | — | — |
 | [ShipAhead](https://shipahe.ad/) | Скидка 50% | — | — |
+| [Siter.io](https://siter.io/black-friday) | скидка 35% · первый платёж · 2026-11-16–2026-12-01 | $54.60 / год · Solo, первый год | `BLACKFRIDAY35` |
+| [Slides by Designmodo](https://designmodo.com/black-friday/) | скидка до 40% · годовые тарифы · до 2026-11-30 | — | `BLACK` |
 | [SportyBlocks](https://sportyblocks.com/?discount=BLACKFRIDAY) | Скидка 40% | $29.00 · лицензия | `BLACKFRIDAY` |
 | [Systeme.io](https://blackfriday.systeme.io/) | Скидка 40% | $170.00 / год · Startup | — |
 | [Wordify](https://wordify.com/black-friday/) | Скидка 50% | — | `BF50` |
@@ -278,25 +316,31 @@
 | [ActiveDock 2](https://noteifyapp.com/activedock/) | Скидка 30% | $41.99 · бессрочно | `MACPLUSBLACKFRIDAY26` |
 | [Aevo](https://aevo.so/en) | Скидка 30% | — | — |
 | [Almighty](https://indiegoodies.com/almighty) | Скидка 50% | $7.49 · бессрочно | `INDIEGOODIESBF26` |
+| [AntShot](https://antshot.com/) | скидка 35% | $25.35 · бессрочно | `BLACKFRIDAY26` |
 | [AppsByMo](https://appsbymo.app/) | Скидка 50% | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | Скидка 25% | $30.00 · разовый платёж | `BLACKFRIDAY26` |
 | [Beaming](https://trybeaming.app/) | Скидка 40% | — | `BLACKFRIDAY40` |
+| [Check Engine SEO](https://checkengineseo.com/pricing/) | акция «Чёрная пятница» · до 2026-12-02 | $19.99 · разовый платёж | — |
+| [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | скидка 50% Lifetime (обычная цена $14.99 USD) | $7.49 USD · бессрочно | `BFCM26` |
 | [Chronoid](https://www.chronoid.app/pricing) | Скидка 50% | $74.50 · бессрочно | `BLACKFRIDAY26` |
 | [Chute](https://appsbymo.app/chute/) | Скидка 50% | — | `BLACKFRIDAY` |
 | [Circleback](https://circleback.ai/pricing) | Смотреть предложение | — | — |
+| [Clappia](https://www.clappia.com/black-friday-offer) | скидка 50% · годовые тарифы, для новых клиентов · до 2026-12-31 | — | `BLACKFRD` |
 | [Classic Commander](https://noteifyapp.com/classic-commander/) | Скидка 30% | — | `MACPLUSBLACKFRIDAY26` |
 | [CleanClip](https://pricing.cleanclip.cc/src) | Скидка 30% | $20.99 · разовый платёж | `BF2026` |
 | [Clipboard Manager Pro](https://clipboardman.com/) | Скидка 35% | $15.59 / год | `BF2026` |
 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | Скидка 30% | $20.99 · бессрочно | `MACPLUSBLACKFRIDAY26` |
 | [CoolDock](https://cooldock.app/) | Скидка 50% | €19.99 · бессрочно | `BLACK2026FRIDAY50` |
 | [Cozy](https://cozyjournal.app/) | Скидка 50% | $24.50 · разовый платёж | `BLACKFRIDAY` |
-| [Crisp](https://crispvideo.app/pricing/) | Скидка 50% | $14.50 · разовый платёж | — |
+| [Crisp](https://crispvideo.app/pricing/) | акция «Чёрная пятница» · до 2026-12-02 | $9.99 · разовый платёж | — |
 | [Cue (AppsByMo)](https://appsbymo.app/cue/) | Скидка 50% | $14.50 · разовый платёж | `BLACKFRIDAY` |
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | Скидка 25% Pro | $18.90 · бессрочно | `BLACKFRIDAY2026` |
+| [datacheck.cc](https://datacheck.cc/en/pricing) | скидка 30% · разовые пакеты и бессрочные лицензии | от HK$81.20 · разовый платёж | — |
 | [Dayora](https://www.dayora.ai/black-friday) | Скидка 40% | $43.20 / год | — |
 | [Deckloud](https://deckloud.com/black-friday/) | Скидка 40% | $22.99 · бессрочно | `BF2026` |
+| [Deletti](https://deletti.app/#black-friday) | скидка 50% Single Lifetime (обычная цена $17.99 USD) | $8.99 USD · бессрочно | `BFCM26` |
 | [Dictionaries](https://dictionaries.io/) | Скидка 50% | $9.99 · бессрочно | `BF26` |
-| [Docket](https://docketseo.app/) | Скидка 50% | $29.50 · разовый платёж | — |
+| [DiskMate](https://diskmate.app) | скидка 50% | $5.00 · бессрочно | — |
 | [DockFlow](https://dockflowapp.io/) | Скидка 50% | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | Скидка до 50% | От $12.99 · бессрочно | — |
 | [DockView 2](https://noteifyapp.com/dockview/) | Скидка 30% | $34.99 · бессрочно | `MACPLUSBLACKFRIDAY26` |
@@ -309,9 +353,11 @@
 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Скидка 50% | $29.99 · бессрочно | — |
 | [ExtraBar](https://extrabar.app/) | Скидка 50% | — | `BLACK2026FRIDAY50` |
 | [ExtraDock](https://extradock.app/) | Скидка 50% | €19.99 · бессрочно | `BLACK2026FRIDAY50` |
+| [Fadeclock](https://fadeclock.app/#price) | скидка 50% · до 2026-11-30 (PT) | $6.00 · разовый платёж | `BF2026` |
 | [FileOctopus](https://www.fileoctopus.com/black-friday.html) | Скидка 50% | $14.99 · разовый платёж, 2 Macs | `BLACKFRIDAY2026` |
 | [Files to Notion](https://www.files2notion.com/) | Скидка 20% | $31.20 · разовый платёж | `BLACK2026FRIDAY` |
 | [Fileside](https://www.fileside.app/) | Скидка 50% | $16.50 · бессрочно | `BLKFRD26` |
+| [Float](https://float.gilla.fun/#pricing) | скидка 40% · 2026-11-26–2026-12-01 (PT) | $2.99 · бессрочно | `BF26FLOAT` |
 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Скидка 30% | — | — |
 | [Fresh Notch](https://freshnotch.com/#pricing) | Смотреть предложение | — | `BFRIDAY` |
 | [Gramcheck](https://extensions.loopspec.com/gramcheck) | Скидка 51% | $19.00 · разовый платёж | — |
@@ -329,6 +375,8 @@
 | [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | Скидка 30% | Зависит от приложения | `MACPLUSBLACKFRIDAY26` |
 | [Margin](https://appsbymo.app/margin/) | Скидка 50% | $4.99 · Mac App Store | `BLACKFRIDAY` |
 | [MeetingDebrief](https://meetingdebrief.com/) | Скидка 35% | — | `BFCM2026` |
+| [MeetMic](https://meetmic.app/buy) | скидка 55% · бессрочно · 2026-11-23–2026-12-10 | $26.55 · бессрочно | `BF26` |
+| [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | скидка 40% | $29.99 · бессрочно | — |
 | [MouseUp](https://mouseup.app/pricing) | Скидка 50% | $4.00 · бессрочно | `MMFBF2026` |
 | [MultiDock 2](https://noteifyapp.com/multidock/) | Скидка 30% | $27.99 · бессрочно | `MACPLUSBLACKFRIDAY26` |
 | [MuteDeck](https://mutedeck.com/) | Скидка 35% | — | `BFCM2026` |
@@ -336,9 +384,11 @@
 | [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | Скидка 50% | — | — |
 | [Noteline](https://noteline.io/pricing) | Скидка 50% | — | — |
 | [OkayTab](https://okaytab.app/) | Скидка 30% · первый платёжный период | $2.51 · первый месяц | `BLACKFRIDAY2026` |
-| [Outlier](https://outlier.host/) | Скидка 50% | $24.50 · разовый платёж | — |
+| [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | скидка 50% · первый год или первые 3 месяца | от US$50.00 / год · первый год; от US$5.00 / месяц · первые 3 месяца | — |
+| [Outlier](https://outlier.host/pricing/) | акция «Чёрная пятница» · до 2026-12-02 | $16.99 · разовый платёж | — |
 | [Overcal](https://indiegoodies.com/overcal) | Скидка 50% | $3.99 · бессрочно | `INDIEGOODIESBF26` |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | Скидка 50% | — | — |
+| [Paste](https://pasteapp.io/black-friday-2026) | скидка 50% · первый год | $14.99 / год · первый год | `BLACKFRIDAY2026` |
 | [PastePal](https://indiegoodies.com/pastepal) | Скидка 50% | $7.49 · бессрочно | `INDIEGOODIESBF26` |
 | [PeakHour](https://peakhour.app/) | Скидка 30% | $34.99 · бессрочно | — |
 | [Perch](https://perch.run/black-friday) | Скидка 40% | $17.40 · бессрочно | `BLACKFRIDAY2026` |
@@ -355,12 +405,14 @@
 | [ShiftPlus](https://shiftplus.app/black-friday/) | Скидка 40% | От $14.40 · бессрочно | — |
 | [Shiori](https://shioriapp.io/) | Скидка 50% | — | `BLACK2026FRIDAY50` |
 | [SlapMac](https://slapmac.com/) | Скидка 30% | $9.09 · разовый платёж | `BLACKFRIDAY26` |
+| [Snapperon](https://snapperon.com/) | скидка 50% · первые 12 месяцев, первый год или бессрочная лицензия | US$1.00 / месяц · первые 12 месяцев; US$10.00 / год · первый год; US$19.50 · бессрочно | `BLACKFRIDAY26` |
 | [Soluna](https://appsbymo.app/soluna/) | Скидка 50% | — | `BLACKFRIDAY` |
 | [SpaceBroom](https://spacebroom.app/en/) | Скидка 30% | — | `BLACKFRIDAY26` |
 | [Spacepal](https://getspacepal.com/black-friday/) | Скидка 20% | $7.99 · разовый платёж | — |
 | [SpaceWise 2.0 (Mac)](https://www.spacewisemac.in/pricing) | Смотреть предложение | — | — |
 | [Stage View](https://noteifyapp.com/stage-view/) | Скидка 30% | $5.59 · бессрочно | `MACPLUSBLACKFRIDAY26` |
 | [SubManager](https://submanager.app/) | Скидка 50% | $4.99 · бессрочно | — |
+| [Sum](https://sumtranscribe.com/pricing) | скидка 50% · первый месяц или год Sum Pro (веб), до 2026-11-30 (восточное время США) | — | `SUMBF50` |
 | [SupaSidebar](https://supasidebar.com/) | Скидка 50% | $39.50 · бессрочно | `SIDEBARBF50` |
 | [SuperTab 7](https://noteifyapp.com/supertab/) | Скидка 30% | $34.99 · бессрочно | `MACPLUSBLACKFRIDAY26` |
 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Скидка 30% | $27.99 · бессрочно | `MACPLUSBLACKFRIDAY26` |
@@ -372,6 +424,7 @@
 | [Todowing](https://todowing.com/) | Скидка 40% | $5.99 · бессрочно | `BF2026` |
 | [Transcrybe](https://transcrybe.app/) | Скидка 50% | — | — |
 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Скидка 30% | $20.99 · бессрочно | `MACPLUSBLACKFRIDAY26` |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | скидка 30.8% | US$8.99 · разовый платёж | — |
 | [Typefu](https://indiegoodies.com/typefu) | Скидка 50% | $3.99 · бессрочно | `INDIEGOODIESBF26` |
 | [Upto](https://macupto.com/) | Скидка 10% | $13.49 / первый год · 5 Macs | `UPTOBLACKFRIDAY` |
 | [Vigil](https://appsbymo.app/vigil/) | Скидка 50% | — | `BLACKFRIDAY` |
@@ -381,6 +434,7 @@
 | [Wick](https://appsbymo.app/wick/) | Скидка 50% | — | `BLACKFRIDAY` |
 | [Winch](https://getwinch.app/#pricing) | Скидка 30% | $27.30 · разовый платёж, 2 Macs | `BLACKFRIDAY2026` |
 | [Wins](https://wins.cool/) | Скидка 40% | — | `BF_26` |
+| [Wishbar](https://wishbar.app/black-friday) | скидка 50% | $19.00 · разовый платёж | — |
 | [XFlow](https://foxecom.com/pages/bfcm-2026) | Скидка 35% | — | — |
 | [Y-Pod](https://www.y-pod.app/#black-friday) | Скидка 50% | $49.99 · бессрочно | — |
 | [Yonder](https://appsbymo.app/yonder/) | Скидка 50% | — | `BLACKFRIDAY` |
@@ -396,10 +450,14 @@
 | Продукт | Скидка | Цена по акции | Код |
 | --- | --- | --- | --- |
 | [Airbridge](https://www.airbridge.io/en/black-friday) | Скидка 50% | — | `BLACKFRIDAY26` |
+| [Appfigures](https://appfigures.com/platform/pricing) | скидка 50% · 12 месяцев, скидка до $200 в месяц | — | `BF2650` |
+| [ASO Atlas](https://asoatlas.com/) | скидка 30% · первый год годового тарифа | $70.00 / год · первый год | `BLACKWEEK30` |
 | [AUTX AI Visibility Check](https://autx.ai/) | Скидка 20% | $39.20 · отчёт | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | Скидка 50% · первые 6 месяцев | — | — |
+| [BizPeel](https://bizpeel.com/pricing) | скидка 50% · первый месяц; скидка 20% · первый год | от $14.95 / месяц · Starter, первый месяц | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | Скидка $100 · разовая лицензия | $150.00 · разовый платёж, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | Смотреть предложение | — | — |
+| [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | скидка 87% · бессрочный набор из 11 продуктов | $129.00 · разовый платёж | `BUNDLE129` |
 | [Chatbase](https://www.chatbase.co/pricing) | Смотреть предложение | — | — |
 | [Citation Rocket](https://www.citationrocket.com/pricing) | Скидка 40% · бессрочная лицензия | $59.00 · разовый платёж, Lifetime | — |
 | [CiteWing](https://citewing.com/) | Скидка 36% на Pro; 50% на размещения | $95.00 / месяц · Pro | — |
@@ -408,18 +466,24 @@
 | [DataFast](https://datafa.st/) | Смотреть предложение | — | — |
 | [Digital Carnage](https://digitalcarnage.info/) | Скидка 25% | — | — |
 | [Directify](https://directify.app/founders) | Скидка 56% | $599.00 / 2 года · Growth | — |
+| [Directory Ideas](https://directoryideas.ai/) | скидка 33% · бессрочно | $59.00 · разовый платёж, Lifetime | — |
 | [EngageBay](https://www.engagebay.com/offer) | Скидка 40% | — | — |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | Смотреть предложение | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | Смотреть предложение | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | Скидка 20% | $159.00 / месяц · Growth | — |
+| [HeyStream](https://heystream.com/pricing?coupon=BF2026) | скидка 40% · первый год Launch, Growth или Scale при годовой оплате, для новых клиентов · требуется оформить пробный период | US$1,072.80 / год · Growth, первый год | `BF2026` |
+| [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | скидка 40% · первый год Starter, Growth или Success при годовой оплате, для новых клиентов · требуется оформить пробный период | US$234.00 / год · Starter, первый год | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | Смотреть предложение | — | — |
+| [Highseat](https://highseat.com/pricing?billing=yearly) | скидка 40% · первый год годового тарифа, для новых клиентов | от $54.00 / год · первый год | — |
 | [Hostify](https://hostify.com/black-friday-2026) | Скидка 50% | — | — |
+| [Keyword Race](https://keywordrace.com/) | скидка около 40% · бессрочно | $35.00 · разовый платёж | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | Скидка 30% · первые 3 месяца | От $14.00 / месяц · первые 3 месяца | — |
 | [LandinTools](https://tools.landin.page/advertise) | Скидка 50% | $24.50 / год · выделенное размещение | `BF2026` |
 | [Later](https://later.com/black-friday-sale/) | 6 месяцев бесплатно | $37.50 / месяц · оплата за год | — |
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | Скидка 30% | $147.00 / год | `BLACKFRIDAY2026` |
 | [MagicPost](https://magicpost.in/blog/magicpost-black-friday) | Скидка до 60% | От $19.00 / месяц · оплата за год | — |
 | [MailCheap](https://mailcheap.ai/pricing) | Смотреть предложение | — | — |
+| [Mailtea](https://mailtea.app/pricing#black-friday) | 3 месяца бесплатно · для новых клиентов, первые 100 активаций | $0.00 · Pro 25K на 3 месяца, затем $16.00 / месяц | `BLACKFRIDAY26` |
 | [Nuelink](https://offer.nuelink.com/mcp/) | Скидка 50% · годовой тариф | $144.00 / год · Standard, первый год | `BFCM26` |
 | [Omnisend](https://www.omnisend.com/bfcm/) | Скидка 30% | — | — |
 | [OmniSocials](https://omnisocials.com/pricing) | Смотреть предложение | — | — |
@@ -430,6 +494,7 @@
 | [Pagerly](https://pagerly.io/) | Скидка 20% | — | `BF20` |
 | [Picmim](https://picmim.com/) | Скидка 50% | — | `PICMIM50` |
 | [Portico](https://portico.run/lifetime) | Скидка 25% | От $37.00 · бессрочно | — |
+| [Postcards by Designmodo](https://designmodo.com/black-friday/) | скидка до 40% · годовые тарифы · до 2026-11-30 | — | `BLACK` |
 | [Posteady](https://www.posteady.com/black-friday?promo=BF26) | Скидка 50% | $174.00 / год | `BF26` |
 | [Postiz](https://postiz.com/pricing) | Смотреть предложение | — | — |
 | [Quotion](https://quotion.co/#pricing) | Скидка 30% | $8.40 / месяц | `BLACKFRIDAY2026` |
@@ -439,6 +504,7 @@
 | [Rapid Indexer](https://rapid-indexer.com/) | До 40% бонусных кредитов | Зависит от пополнения | — |
 | [Referly Atlas](https://www.referly.so/atlas/ltd) | Скидка до 78% | От $299.00 · разовый платёж | — |
 | [RenewRoster](https://renewroster.com/pricing) | Скидка 50% | $75.00 / год | — |
+| [Sabi](https://meetsabi.com/pages/blackfriday) | скидка около 50% · 6 месяцев Sabi Pro | US$495.00 / 6 месяцев | — |
 | [Semrush](https://semrush.sjv.io/e4x4N1) | Скидка до 17% | — | — |
 | [Sender](https://www.sender.net/pricing/) | Смотреть предложение | — | — |
 | [Sequenzy](https://sequenzy.com/black-friday) | Скидка 30% | От $143.50 / год | `BLACKFRIDAY` |
@@ -450,6 +516,7 @@
 | [Terlido](https://terlido.com/pricing) | Скидка 40% | От $23.40 / пользователь / месяц · Email Pro | `BF2026` |
 | [Tickabee](https://tickabee.com/black-friday-2026) | Скидка 50% | $9.50 / месяц | `OFF50` |
 | [Umami Manager](https://apps.apple.com/de/app/umami-analytics-manager/id6462423358) | Скидка 25% | — | — |
+| [Unspam.email](https://unspam.email/black-friday) | скидка 35% · первый счёт · 2026-11-16–2026-12-01 | — | `BLACKFRIDAY35` |
 | [Updately](https://updately.ai/) | Скидка 20% | — | `BF20` |
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Скидка 72% | — | `BFCM72` |
 | [Vemetric](https://vemetric.com/) | Скидка 30% | — | `BF2026` |

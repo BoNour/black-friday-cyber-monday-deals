@@ -49,11 +49,13 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | --- | --- | --- | --- |
 | [1Password](https://1password.com/pricing/password-manager) | Environ 25% de réduction · première année | À partir de $2.99 / mois · facturation annuelle | — |
 | [anon.li](https://anon.li/pricing) | 40% de réduction · première année | $41.69 / an · Plus, première année | `BLKFRI40` |
+| [AppSecD](https://dedsecops.com/pricing) | 30% de réduction · tous les forfaits payants | à partir de $14 / mois · Starter | — |
 | [Aster Mail](https://astermail.org/) | 50% de réduction | $4.49 / mois | — |
 | [CyberGhost](https://www.cyberghostvpn.com/) | 83% de réduction | $61.32 / 28 mois | — |
 | [ExpressVPN](https://www.expressvpn.com/pricing) | Jusqu’à 80% de réduction | À partir de $83.72 / 28 mois | — |
 | [Imunify360](https://www.imunify360.com/) | Jusqu’à 40% de réduction | — | — |
 | [IPVanish](https://www.ipvanish.com/black-friday/) | Voir l’offre | À partir de $2.19 / mois · formule de 2 ans | — |
+| [Leave Me Alone](https://leavemealone.com/pricing/) | 83% de réduction · forfait annuel Unlimited | $59 / an · boîtes illimitées, même prix au renouvellement | — |
 | [NordPass](https://nordpass.com/black-friday/) | Jusqu’à 50% de réduction · annuel | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | Jusqu’à 78% de réduction | À partir de $3.49 / mois · formule prépayée | — |
 | [OffSeq Breach](https://breach.offseq.com/en#pricing) | 50% de réduction | — | `BLACK` |
@@ -65,6 +67,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Proton Pass](https://proton.me/pass/black-friday) | Jusqu’à 60% de réduction | $23.88 / an · Plus, première année | — |
 | [Proton VPN](https://protonvpn.com/black-friday) | 70% de réduction · Plus, première année | $35.88 / première année · Plus | — |
 | [PureVPN](https://www.purevpn.com/black-friday) | 87% de réduction | $101.55 / 5 ans | — |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | 50% de réduction Pro Lifetime (prix habituel $29.99 USD) | $14.99 USD · à vie | `BFCM26` |
 | [Surfshark](https://surfshark.com/pricing) | Jusqu’à 90% de réduction | À partir de $67.23 / 27 mois | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% de réduction | $20.30 · Standard | `BF2026` |
 
@@ -79,10 +82,13 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | --- | --- | --- | --- |
 | [1bench](https://1bench.dev/black-friday) | 50% de réduction | $99.00 · à vie | `FCBF26` |
 | [Aba Search and Replace](https://www.abareplace.com/) | 50% de réduction | $15.00 · à vie | `Sale2026` |
+| [Akev](https://akev.dev/pricing) | 30% de réduction | $34.30 · paiement unique, licence Pro | `BLACKFRIDAY` |
+| [APIKO](https://apiko.app/) | 10% de crédits bonus · recharges payantes, jusqu’au 2026-11-27 (PT) | — | — |
 | [Atelier](https://appsbymo.app/atelier/) | 50% de réduction | — | `BLACKFRIDAY` |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% de réduction | $23.40 · à vie | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 40% de réduction | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% de réduction | $6.99 · licence standard | `MACPLUSBLACKFRIDAY26` |
+| [data-peek](https://www.datapeek.dev/pricing) | 40% de réduction · 2026-11-26–2026-12-01 (PT) | $17.40 / an · Pro | — |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% de réduction | $48.30 · à vie | `BF2026` |
 | [DevIntern](https://devintern.com/pricing/) | 40% de réduction · première facture · 20 nov.–1 déc. 2026 | $59.40 · Supporter License à paiement unique ou premier mois de Team | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% de réduction | — | `BLACKFRIDAY2026` |
@@ -96,16 +102,22 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Lidnight](https://lidnight.app/en/buy/) | 50% de réduction | — | `BF50` |
 | [Looq](https://parcse.com/looq) | 10% de réduction | $9.00 · paiement unique | `PARCSEBLACKFRIDAY` |
 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | 60% de réduction | $3.82 · paiement unique | — |
+| [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | environ 20% de réduction · jusqu’au 2026-11-30 (PT); 500 utilisations | US$4.79 · licence à vie pour un utilisateur | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) |
 | [Piloterr](https://www.piloterr.com/blackfriday) | 50% de réduction · 3 premiers mois | À partir de $24.50 / mois · 3 premiers mois | `BLACKFRIDAY50` |
 | [PortDroid](https://portdroid.net/black-friday-2026) | 50% de réduction | $4.69 · à vie | `CYBER_2026` |
 | [Proxyman](https://proxyman.com/pricing) | 30% de réduction | $62.30 · Standard | `BF2026` |
+| [Pulsetic](https://pulsetic.com/black-friday) | 35% de réduction · premier paiement · 2026-11-16–2026-12-03 | $58.50 / an · Solo, première année | `BLACKFRIDAY35` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | 50% de réduction | $44.50 · paiement unique | `BFCM2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 50% de réduction | $4.99 · paiement unique | — |
+| [SaaScaffold](https://saascaffold.com/pricing) | 50% de réduction · 2026-11-21–2026-12-06 | $49.00 · paiement unique | — |
+| [Social Fetch](https://www.socialfetch.dev/black-friday) | crédits doublés · premier mois des nouveaux forfaits mensuels, 3 premiers mois des nouveaux forfaits annuels et packs de crédits | $59.00 · paiement unique pack Growth, 50,000 crédits | — |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12) | Jusqu’à 50% de réduction | — | — |
 | [SSH Workbench](https://sshworkbench.com/) | 50% de réduction | $99.00 · à vie | `FCBF26` |
 | [TablePlus](https://tableplus.com/pricing) | 25% de réduction | $74.25 · paiement unique | `BLACK_FRIDAY_2026` |
 | [TablePro](https://tablepro.app/black-friday) | 40% de réduction | $47.40 · paiement unique | `BLACKFRIDAY2026` |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | 30% de réduction | $20.30 · Standard | `BF2026` |
+| [TeaGo](https://teago.artsvit.com/) | environ 20% de réduction · jusqu’au 2026-11-30 (PT); 500 utilisations | US$3.99 · licence à vie pour un utilisateur | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) |
+| [Toplify](https://toplify.app) | $40 de réduction · 2026-11-15–2026-12-01 | $49.99 USD · à vie (auparavant $89.99) | [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) |
 | [VMPal](https://vmpal.com/pricing) | 25% de réduction | $51.75 · paiement unique | — |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 40% de réduction | $35.00 · à vie | — |
 | [WP Foreman](https://wpforeman.com/black-friday/) | Offre à vie | À partir de $199.00 · à vie, 25 sites | — |
@@ -124,6 +136,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Cloudways](https://www.cloudways.com/en/promo-code.php) | 80% de réduction · 2 premiers mois | À partir de $2.20 / mois · 2 premiers mois | `BFCM802` |
 | [DediRock](https://dedirock.com/) | Voir l’offre | $9.88 / an | — |
 | [ESN Hosting](https://panel.esnoffical.com/plans) | 85% de réduction · premier mois | $0.67 · premier mois | — |
+| [Faivelo](https://faivelo.com/black-friday) | 80% de réduction | $12.00 / an | — |
 | [FlyWP](https://flywp.com/black-friday-deals/) | Offre à vie | À partir de $249.00 · à vie | — |
 | [Hosting.com](https://hosting.com/black-friday/) | Jusqu’à 89% de réduction | — | — |
 | [Hostinger](https://www.hostinger.com/black-friday) | Jusqu’à 85% de réduction | À partir de $2.24 / mois · voir la période de facturation | — |
@@ -134,6 +147,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Kinsta](https://kinsta.com/black-friday/) | 3 mois offerts sur les forfaits annuels · 50% de réduction les 3 premiers mois des forfaits mensuels · nouveaux clients | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% de réduction | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | Voir l’offre | — | — |
+| [Static.app](https://static.app/black-friday) | 35% de réduction · premier paiement · 2026-11-16–2026-12-01 | $39.00 / an · Starter, première année | `BLACKFRIDAY35` |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | Jusqu’à 60% de réduction | — | — |
 
 <a name="ai"></a>
@@ -150,8 +164,11 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Blip AI Pro](https://www.blipai.app/) | 50% de réduction · première année | — | — |
 | [BoltAI](https://boltai.com/pricing) | 40% de réduction | $239.40 · à vie | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% de réduction | $63.00 · à vie | — |
+| [ConceptViz](https://conceptviz.app/pricing) | offre à vie | $299.00 · à vie | — |
 | [Enconvo](https://enconvo.com/pricing) | 30% de réduction · Lifetime et premier paiement Cloud · 20 nov.–7 déc. 2026 | $41.30 · Standard, à vie | — |
+| [FastScribe](https://fastscribe.org/pricing) | $31 de réduction · première année et 6 500 crédits bonus · comptes sans abonnement actif uniquement | $89.00 / an · Pro, première année | — |
 | [Fluent 2](https://fluentmac.app/) | 25% de réduction | $36.75 · Basic | `BF2026` |
+| [MakeMidas](https://makemidas.com/pricing) | jusqu’à 25% crédits bonus · packs de crédits | $10 · 1,250 crédits (auparavant 1,000) · paiement unique | — |
 | [Mo](https://appsbymo.app/mo/) | 50% de réduction | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 30% de réduction | — | `BLFCM2026` |
 | [PDF Pals](https://pdfpals.com/buy) | 20% de réduction Basic/Plus ; accès à vie $149 | $149.00 · à vie | `BF20` |
@@ -162,6 +179,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [SciFig](https://scifig.ai/black-friday) | 20% de réduction supplémentaire | $80.00 / an · Starter, première année | — |
 | [ScribeToAny](https://scribetoany.com/) | 30% de réduction | — | — |
 | [Sintra AI](https://sintra.ai/pricing) | Voir l’offre | — | — |
+| [Skillry](https://skillry.dev/pricing) | 50% de réduction · premier mois ou première année de Pro; $80 de réduction Founding Lifetime | $9.99 / mois · premier mois; $79.00 / an · première année; $169.00 · à vie | — |
 | [Slashspace](https://www.slashspace.ai/) | 51% de réduction | $122.01 · à vie | `BF2026` |
 | [SmartyTab](https://smartytab.app/) | 30% de réduction | $69.30 · à vie | — |
 | [Supacite](https://supacite.com/) | Offre à vie | $89.00 premier palier; $129.00 palier suivant · à vie | `CITEBF` |
@@ -169,7 +187,9 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [TypingMind](https://www.typingmind.com/) | 60% de réduction | — | `BLACKFRIDAY2026` |
 | [Vinaa](https://www.vinaa.ai/) | 44% de réduction | $39.00 · à vie | — |
 | [Vogoo AI](https://vogoo.ai/black-friday) | 40% de réduction | $89.64 / an · Pro | — |
+| [Voibe](https://www.getvoibe.com/pricing/) | 25% de réduction · forfaits Dictation et Work, jusqu’au 2026-11-30 | $149.25 · Dictation à vie; $299.25 · Work à vie | `BFCM26` |
 | [Wiredesk](https://wiredesk.ai/pricing) | 30% de réduction | À partir de $27.30 / mois · facturation annuelle, première année | `BLACKFRIDAY2026` |
+| [Wovo](https://wovo.one/#pricing) | 50% de réduction · Pro et Max en annuel | $72 / an · Pro; $174 / an · Max | — |
 
 <a name="design"></a>
 
@@ -180,8 +200,10 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 
 | Produit | Réduction | Prix promotionnel | Code |
 | --- | --- | --- | --- |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | 50% de crédits bonus · packs à paiement unique; jusqu’à 300 crédits bonus · forfaits mensuels éligibles, premier mois | à partir de US$9.90 · paiement unique; à partir de US$19.90 / mois · premier mois | — |
 | [Atmos](https://atmos.style/) | Jusqu’à 50% de réduction | $79.50 · à vie | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | 60% de réduction | $9.99 · à vie | — |
+| [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | 50% de réduction | $39.99 · à vie | — |
 | [Bimg AI](https://bimg.ai/black-friday) | 50% de réduction | — | — |
 | [Bindrik](https://bindrik.com/en) | 43% de réduction | $39.00 · paiement unique | `BLACKFRIDAY2026` |
 | [BirdFrame](https://getbirdframe.com/#black-friday) | 33% de réduction | $19.99 · paiement unique | — |
@@ -190,26 +212,33 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Cutfac](https://cutfac.com/pricing) | 40% de réduction | À partir de $29.40 · paiement unique | `BF2026` |
 | [Dabbit](https://dabbit.app/) | 30% de réduction | — | `BLACKFRIDAY` |
 | [ElevenLabs](https://elevenlabs.io/pricing) | Voir l’offre | — | — |
+| [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) | 66% de réduction | $10.20 · à vie | `ETKBF66` |
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | 40% de réduction | $6.00 · paiement unique | — |
 | [FaceScreen](https://facescreen.app/) | 30% de réduction | $4.19 · paiement unique | `FACESCREEN30` |
+| [FixImage](https://fiximage.net/black-friday) | crédits doublés · première période d’abonnement et packs pour abonnés, jusqu’au 2026-12-01 (PT) | — | — |
 | [FL Studio](https://www.image-line.com/specials) | Jusqu’à 50% de réduction | — | — |
 | [FluidCast](https://fluidcastapp.com/event.html) | 50% de réduction | — | `BLACKFRIDAY2026LT` |
 | [Fresible Music](https://music.fresible.com/) | 50% de réduction | — | — |
+| [Image to 3D AI](https://imageto3dai.org/black-friday) | crédits doublés · première période d’abonnement et packs pour abonnés, jusqu’au 2026-12-01 (PT) | — | — |
+| [ImgVid](https://imgvid.net/black-friday) | crédits doublés · première période d’abonnement et packs pour abonnés, jusqu’au 2026-12-01 (PT) | — | — |
 | [inReels](https://www.inreels.ai/pricing) | 50% de réduction | — | `BLACKFRIDAY2026` |
 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/) | 25% de réduction · première année | $299.70 / an · Pro, première année | — |
 | [Kavel](https://www.kavel.ai/pricing) | Crédits ×2 | — | — |
 | [Kensa](https://www.kensa.cc/deals/black-friday) | 25% de réduction | — | — |
 | [KeyScreen](https://keyscreen.app/) | 30% de réduction | $4.19 · paiement unique | `KEYSCREEN30` |
+| [Keystro](https://keystro.app/#pricing) | 30% de réduction · licences à paiement unique | $4.89 · Standard; $9.80 · Extended; $27.30 · Team | `BFKEYSTRO26` |
 | [LS Graphics](https://www.ls.graphics/) | 50% de réduction | — | — |
 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/) | 40% de réduction | — | `BLACKFRIDAY26` |
 | [MingCute Animation](https://www.mingcute.com/animation) | 30% de réduction | — | `BF2026` |
 | [MingCute ICONS](https://mgc.mingcute.com/) | 30% de réduction | — | `BF2026` |
 | [MingCute Weather](https://mgcweather.framer.website/) | 30% de réduction | — | `BF2026` |
+| [Motionflare](https://motionflare.ai/pricing) | 50% de réduction · premier mois des nouveaux abonnements | $14.50 / mois · Pro, premier mois; $49.50 / mois · Max, premier mois | — |
 | [Nano Banana](https://nanobanana.org/black-friday) | 50% de réduction | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | 20% de réduction | — | — |
 | [Oil Studio](https://studio.oiloil.org/en/) | 20% de réduction (suppl. sur 39 $; rég. 49 $) | $31.20 · paiement unique (2 Macs) | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% de réduction | $3.99 · paiement unique | — |
 | [Picmal](https://picmal.app/pricing) | 50% de réduction | À partir de $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [PicVideo](https://picvideo.net/black-friday) | crédits doublés · première période d’abonnement et packs pour abonnés, jusqu’au 2026-12-01 (PT) | — | — |
 | [Pimosa](https://pimosa.app) | 40% de réduction · Personal et Plus | Personal $17.40 · Plus $29.40 · paiement unique | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% de réduction · annuel | À partir de $42.48 / an | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% de réduction | $9.80 · paiement unique | `PRESENTIFY30` |
@@ -217,6 +246,8 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Reason Studios](https://www.reasonstudios.com/) | Jusqu’à 50% de réduction | — | — |
 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?mt=8) | 60% de réduction | $17.99 · à vie | — |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | 40% de réduction | $3.00 · paiement unique | `BLACKFRIDAY26` |
+| [RemoveVideoBG.com](https://removevideobg.com/black-friday) | crédits doublés · packs et premier mois; 6 mois de crédits supplémentaires · nouveaux forfaits annuels · jusqu’au 2026-12-01 (PT) | — | — |
+| [Renderly](https://renderly.video/pricing) | 30% de réduction · premier paiement des nouveaux abonnements | $20.30 / mois · Creator, premier mois | `BLACKFRIDAY2026` |
 | [RenderPixels](https://renderpixels.com/) | 20% de réduction | — | `BF2026` |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | 40% de réduction | $6.00 · paiement unique | `BLACKFRIDAY26` |
 | [Rindraw](https://rindraw.com/black-friday-2026/) | 50% de réduction | $6.49 · paiement unique | — |
@@ -234,6 +265,10 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [SmoothCut](https://smoothcut.studio/pricing) | 40% de réduction | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | 20% de réduction | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | Voir l’offre | — | — |
+| [Super Resolution](https://superresolution.pro/black-friday) | crédits doublés · première période d’abonnement et packs pour abonnés, jusqu’au 2026-12-01 (PT) | — | — |
+| [Unraster](https://unraster.ai/pricing) | 45% de réduction · pack de 150 crédits | $43.95 · paiement unique | `BLACKFRIDAY45` |
+| [ViralReel](https://www.viralreel.app/pricing) | jusqu’à 30% de réduction · certains packs de crédits à paiement unique | US$16.00 · Popular, 180 crédits; US$28.00 · Creator, 480 crédits | — |
+| [YIX](https://yix.ai/pricing) | 50% de réduction · premier mois des nouveaux forfaits mensuels | à partir de US$9.95 / mois · Starter, premier mois | — |
 
 <a name="web"></a>
 
@@ -252,6 +287,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Framer](https://www.framer.com/pricing) | Voir l’offre | — | — |
 | [GutSlider Pro](https://gutslider.com/black-friday/) | Jusqu’à 40% de réduction | À partir de $69.00 · à vie | — |
 | [HextaUI Pro](https://hextaui.com/pricing) | Jusqu’à 40% de réduction | $49.00 · offre anticipée | — |
+| [Liite Lifetime Bundle](https://liite.co/lifetime) | 83% de réduction | $249.00 · à vie | — |
 | [MingCute UI](https://ui.mingcute.com/) | 30% de réduction | — | `BF2026` |
 | [Must-Have Plugins](https://musthaveplugins.com/offer/) | Jusqu’à 70% de réduction | — | — |
 | [Plugin Wizards](https://pluginwizards.com/black-friday/) | 40% de réduction | — | `WIZARDS40` |
@@ -259,6 +295,8 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Scrollsequence](https://beta.scrollsequence.com/black-friday-cyber-monday-deals) | 50% de réduction | — | — |
 | [Shadcn.io](https://www.shadcn.io/pricing) | Voir l’offre | — | — |
 | [ShipAhead](https://shipahe.ad/) | 50% de réduction | — | — |
+| [Siter.io](https://siter.io/black-friday) | 35% de réduction · premier paiement · 2026-11-16–2026-12-01 | $54.60 / an · Solo, première année | `BLACKFRIDAY35` |
+| [Slides by Designmodo](https://designmodo.com/black-friday/) | jusqu’à 40% de réduction · forfaits annuels · jusqu’au 2026-11-30 | — | `BLACK` |
 | [SportyBlocks](https://sportyblocks.com/?discount=BLACKFRIDAY) | 40% de réduction | $29.00 · licence | `BLACKFRIDAY` |
 | [Systeme.io](https://blackfriday.systeme.io/) | 40% de réduction | $170.00 / an · Startup | — |
 | [Wordify](https://wordify.com/black-friday/) | 50% de réduction | — | `BF50` |
@@ -278,25 +316,31 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [ActiveDock 2](https://noteifyapp.com/activedock/) | 30% de réduction | $41.99 · à vie | `MACPLUSBLACKFRIDAY26` |
 | [Aevo](https://aevo.so/en) | 30% de réduction | — | — |
 | [Almighty](https://indiegoodies.com/almighty) | 50% de réduction | $7.49 · à vie | `INDIEGOODIESBF26` |
+| [AntShot](https://antshot.com/) | 35% de réduction | $25.35 · à vie | `BLACKFRIDAY26` |
 | [AppsByMo](https://appsbymo.app/) | 50% de réduction | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | 25% de réduction | $30.00 · paiement unique | `BLACKFRIDAY26` |
 | [Beaming](https://trybeaming.app/) | 40% de réduction | — | `BLACKFRIDAY40` |
+| [Check Engine SEO](https://checkengineseo.com/pricing/) | offre du Black Friday · jusqu’au 2026-12-02 | $19.99 · paiement unique | — |
+| [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | 50% de réduction Lifetime (prix habituel $14.99 USD) | $7.49 USD · à vie | `BFCM26` |
 | [Chronoid](https://www.chronoid.app/pricing) | 50% de réduction | $74.50 · à vie | `BLACKFRIDAY26` |
 | [Chute](https://appsbymo.app/chute/) | 50% de réduction | — | `BLACKFRIDAY` |
 | [Circleback](https://circleback.ai/pricing) | Voir l’offre | — | — |
+| [Clappia](https://www.clappia.com/black-friday-offer) | 50% de réduction · forfaits annuels, nouveaux clients · jusqu’au 2026-12-31 | — | `BLACKFRD` |
 | [Classic Commander](https://noteifyapp.com/classic-commander/) | 30% de réduction | — | `MACPLUSBLACKFRIDAY26` |
 | [CleanClip](https://pricing.cleanclip.cc/src) | 30% de réduction | $20.99 · paiement unique | `BF2026` |
 | [Clipboard Manager Pro](https://clipboardman.com/) | 35% de réduction | $15.59 / an | `BF2026` |
 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | 30% de réduction | $20.99 · à vie | `MACPLUSBLACKFRIDAY26` |
 | [CoolDock](https://cooldock.app/) | 50% de réduction | €19.99 · à vie | `BLACK2026FRIDAY50` |
 | [Cozy](https://cozyjournal.app/) | 50% de réduction | $24.50 · paiement unique | `BLACKFRIDAY` |
-| [Crisp](https://crispvideo.app/pricing/) | 50% de réduction | $14.50 · paiement unique | — |
+| [Crisp](https://crispvideo.app/pricing/) | offre du Black Friday · jusqu’au 2026-12-02 | $9.99 · paiement unique | — |
 | [Cue (AppsByMo)](https://appsbymo.app/cue/) | 50% de réduction | $14.50 · paiement unique | `BLACKFRIDAY` |
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | 25% de réduction Pro | $18.90 · à vie | `BLACKFRIDAY2026` |
+| [datacheck.cc](https://datacheck.cc/en/pricing) | 30% de réduction · packs à paiement unique et licences perpétuelles | à partir de HK$81.20 · paiement unique | — |
 | [Dayora](https://www.dayora.ai/black-friday) | 40% de réduction | $43.20 / an | — |
 | [Deckloud](https://deckloud.com/black-friday/) | 40% de réduction | $22.99 · à vie | `BF2026` |
+| [Deletti](https://deletti.app/#black-friday) | 50% de réduction Single Lifetime (prix habituel $17.99 USD) | $8.99 USD · à vie | `BFCM26` |
 | [Dictionaries](https://dictionaries.io/) | 50% de réduction | $9.99 · à vie | `BF26` |
-| [Docket](https://docketseo.app/) | 50% de réduction | $29.50 · paiement unique | — |
+| [DiskMate](https://diskmate.app) | 50% de réduction | $5.00 · à vie | — |
 | [DockFlow](https://dockflowapp.io/) | 50% de réduction | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | Jusqu’à 50% de réduction | À partir de $12.99 · à vie | — |
 | [DockView 2](https://noteifyapp.com/dockview/) | 30% de réduction | $34.99 · à vie | `MACPLUSBLACKFRIDAY26` |
@@ -309,9 +353,11 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | 50% de réduction | $29.99 · à vie | — |
 | [ExtraBar](https://extrabar.app/) | 50% de réduction | — | `BLACK2026FRIDAY50` |
 | [ExtraDock](https://extradock.app/) | 50% de réduction | €19.99 · à vie | `BLACK2026FRIDAY50` |
+| [Fadeclock](https://fadeclock.app/#price) | 50% de réduction · jusqu’au 2026-11-30 (PT) | $6.00 · paiement unique | `BF2026` |
 | [FileOctopus](https://www.fileoctopus.com/black-friday.html) | 50% de réduction | $14.99 · paiement unique, 2 Macs | `BLACKFRIDAY2026` |
 | [Files to Notion](https://www.files2notion.com/) | 20% de réduction | $31.20 · paiement unique | `BLACK2026FRIDAY` |
 | [Fileside](https://www.fileside.app/) | 50% de réduction | $16.50 · à vie | `BLKFRD26` |
+| [Float](https://float.gilla.fun/#pricing) | 40% de réduction · 2026-11-26–2026-12-01 (PT) | $2.99 · à vie | `BF26FLOAT` |
 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | 30% de réduction | — | — |
 | [Fresh Notch](https://freshnotch.com/#pricing) | Voir l’offre | — | `BFRIDAY` |
 | [Gramcheck](https://extensions.loopspec.com/gramcheck) | 51% de réduction | $19.00 · paiement unique | — |
@@ -329,6 +375,8 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 30% de réduction | Selon l’application | `MACPLUSBLACKFRIDAY26` |
 | [Margin](https://appsbymo.app/margin/) | 50% de réduction | $4.99 · Mac App Store | `BLACKFRIDAY` |
 | [MeetingDebrief](https://meetingdebrief.com/) | 35% de réduction | — | `BFCM2026` |
+| [MeetMic](https://meetmic.app/buy) | 55% de réduction · à vie · 2026-11-23–2026-12-10 | $26.55 · à vie | `BF26` |
+| [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 40% de réduction | $29.99 · à vie | — |
 | [MouseUp](https://mouseup.app/pricing) | 50% de réduction | $4.00 · à vie | `MMFBF2026` |
 | [MultiDock 2](https://noteifyapp.com/multidock/) | 30% de réduction | $27.99 · à vie | `MACPLUSBLACKFRIDAY26` |
 | [MuteDeck](https://mutedeck.com/) | 35% de réduction | — | `BFCM2026` |
@@ -336,9 +384,11 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | 50% de réduction | — | — |
 | [Noteline](https://noteline.io/pricing) | 50% de réduction | — | — |
 | [OkayTab](https://okaytab.app/) | 30% de réduction · première période de facturation | $2.51 · premier mois | `BLACKFRIDAY2026` |
-| [Outlier](https://outlier.host/) | 50% de réduction | $24.50 · paiement unique | — |
+| [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | 50% de réduction · première année ou 3 premiers mois | à partir de US$50.00 / an · première année; à partir de US$5.00 / mois · 3 premiers mois | — |
+| [Outlier](https://outlier.host/pricing/) | offre du Black Friday · jusqu’au 2026-12-02 | $16.99 · paiement unique | — |
 | [Overcal](https://indiegoodies.com/overcal) | 50% de réduction | $3.99 · à vie | `INDIEGOODIESBF26` |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% de réduction | — | — |
+| [Paste](https://pasteapp.io/black-friday-2026) | 50% de réduction · première année | $14.99 / an · première année | `BLACKFRIDAY2026` |
 | [PastePal](https://indiegoodies.com/pastepal) | 50% de réduction | $7.49 · à vie | `INDIEGOODIESBF26` |
 | [PeakHour](https://peakhour.app/) | 30% de réduction | $34.99 · à vie | — |
 | [Perch](https://perch.run/black-friday) | 40% de réduction | $17.40 · à vie | `BLACKFRIDAY2026` |
@@ -355,12 +405,14 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [ShiftPlus](https://shiftplus.app/black-friday/) | 40% de réduction | À partir de $14.40 · à vie | — |
 | [Shiori](https://shioriapp.io/) | 50% de réduction | — | `BLACK2026FRIDAY50` |
 | [SlapMac](https://slapmac.com/) | 30% de réduction | $9.09 · paiement unique | `BLACKFRIDAY26` |
+| [Snapperon](https://snapperon.com/) | 50% de réduction · 12 premiers mois, première année ou licence à vie | US$1.00 / mois · 12 premiers mois; US$10.00 / an · première année; US$19.50 · à vie | `BLACKFRIDAY26` |
 | [Soluna](https://appsbymo.app/soluna/) | 50% de réduction | — | `BLACKFRIDAY` |
 | [SpaceBroom](https://spacebroom.app/en/) | 30% de réduction | — | `BLACKFRIDAY26` |
 | [Spacepal](https://getspacepal.com/black-friday/) | 20% de réduction | $7.99 · paiement unique | — |
 | [SpaceWise 2.0 (Mac)](https://www.spacewisemac.in/pricing) | Voir l’offre | — | — |
 | [Stage View](https://noteifyapp.com/stage-view/) | 30% de réduction | $5.59 · à vie | `MACPLUSBLACKFRIDAY26` |
 | [SubManager](https://submanager.app/) | 50% de réduction | $4.99 · à vie | — |
+| [Sum](https://sumtranscribe.com/pricing) | 50% de réduction · premier mois ou première année de Sum Pro (web), jusqu’au 2026-11-30 (heure de l’Est des États-Unis) | — | `SUMBF50` |
 | [SupaSidebar](https://supasidebar.com/) | 50% de réduction | $39.50 · à vie | `SIDEBARBF50` |
 | [SuperTab 7](https://noteifyapp.com/supertab/) | 30% de réduction | $34.99 · à vie | `MACPLUSBLACKFRIDAY26` |
 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | 30% de réduction | $27.99 · à vie | `MACPLUSBLACKFRIDAY26` |
@@ -372,6 +424,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Todowing](https://todowing.com/) | 40% de réduction | $5.99 · à vie | `BF2026` |
 | [Transcrybe](https://transcrybe.app/) | 50% de réduction | — | — |
 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | 30% de réduction | $20.99 · à vie | `MACPLUSBLACKFRIDAY26` |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | 30.8% de réduction | US$8.99 · paiement unique | — |
 | [Typefu](https://indiegoodies.com/typefu) | 50% de réduction | $3.99 · à vie | `INDIEGOODIESBF26` |
 | [Upto](https://macupto.com/) | 10% de réduction | $13.49 / première année · 5 Macs | `UPTOBLACKFRIDAY` |
 | [Vigil](https://appsbymo.app/vigil/) | 50% de réduction | — | `BLACKFRIDAY` |
@@ -381,6 +434,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Wick](https://appsbymo.app/wick/) | 50% de réduction | — | `BLACKFRIDAY` |
 | [Winch](https://getwinch.app/#pricing) | 30% de réduction | $27.30 · paiement unique, 2 Macs | `BLACKFRIDAY2026` |
 | [Wins](https://wins.cool/) | 40% de réduction | — | `BF_26` |
+| [Wishbar](https://wishbar.app/black-friday) | 50% de réduction | $19.00 · paiement unique | — |
 | [XFlow](https://foxecom.com/pages/bfcm-2026) | 35% de réduction | — | — |
 | [Y-Pod](https://www.y-pod.app/#black-friday) | 50% de réduction | $49.99 · à vie | — |
 | [Yonder](https://appsbymo.app/yonder/) | 50% de réduction | — | `BLACKFRIDAY` |
@@ -396,10 +450,14 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | Produit | Réduction | Prix promotionnel | Code |
 | --- | --- | --- | --- |
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% de réduction | — | `BLACKFRIDAY26` |
+| [Appfigures](https://appfigures.com/platform/pricing) | 50% de réduction · 12 mois, jusqu’à $200 de réduction par mois | — | `BF2650` |
+| [ASO Atlas](https://asoatlas.com/) | 30% de réduction · première année du forfait annuel | $70.00 / an · première année | `BLACKWEEK30` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% de réduction | $39.20 · rapport | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% de réduction · 6 premiers mois | — | — |
+| [BizPeel](https://bizpeel.com/pricing) | 50% de réduction · premier mois; 20% de réduction · première année | à partir de $14.95 / mois · Starter, premier mois | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 de réduction · licence à paiement unique | $150.00 · paiement unique, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | Voir l’offre | — | — |
+| [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | 87% de réduction · lot à vie de 11 produits | $129.00 · paiement unique | `BUNDLE129` |
 | [Chatbase](https://www.chatbase.co/pricing) | Voir l’offre | — | — |
 | [Citation Rocket](https://www.citationrocket.com/pricing) | 40% de réduction · à vie | $59.00 · paiement unique, Lifetime | — |
 | [CiteWing](https://citewing.com/) | 36% sur Pro ; 50% sur les soumissions | $95.00 / mois · Pro | — |
@@ -408,18 +466,24 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [DataFast](https://datafa.st/) | Voir l’offre | — | — |
 | [Digital Carnage](https://digitalcarnage.info/) | 25% de réduction | — | — |
 | [Directify](https://directify.app/founders) | 56% de réduction | $599.00 / 2 ans · Growth | — |
+| [Directory Ideas](https://directoryideas.ai/) | 33% de réduction · à vie | $59.00 · paiement unique, Lifetime | — |
 | [EngageBay](https://www.engagebay.com/offer) | 40% de réduction | — | — |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | Voir l’offre | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | Voir l’offre | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% de réduction | $159.00 / mois · Growth | — |
+| [HeyStream](https://heystream.com/pricing?coupon=BF2026) | 40% de réduction · première année de Launch, Growth ou Scale en annuel, nouveaux clients · inscription à l’essai requise | US$1,072.80 / an · Growth, première année | `BF2026` |
+| [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | 40% de réduction · première année de Starter, Growth ou Success en annuel, nouveaux clients · inscription à l’essai requise | US$234.00 / an · Starter, première année | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | Voir l’offre | — | — |
+| [Highseat](https://highseat.com/pricing?billing=yearly) | 40% de réduction · première année des forfaits annuels, nouveaux clients | à partir de $54.00 / an · première année | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% de réduction | — | — |
+| [Keyword Race](https://keywordrace.com/) | environ 40% de réduction · à vie | $35.00 · paiement unique | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% de réduction · 3 premiers mois | À partir de $14.00 / mois · 3 premiers mois | — |
 | [LandinTools](https://tools.landin.page/advertise) | 50% de réduction | $24.50 / an · mise en avant | `BF2026` |
 | [Later](https://later.com/black-friday-sale/) | 6 mois offerts | $37.50 / mois · facturation annuelle | — |
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | 30% de réduction | $147.00 / an | `BLACKFRIDAY2026` |
 | [MagicPost](https://magicpost.in/blog/magicpost-black-friday) | Jusqu’à 60% de réduction | À partir de $19.00 / mois · facturation annuelle | — |
 | [MailCheap](https://mailcheap.ai/pricing) | Voir l’offre | — | — |
+| [Mailtea](https://mailtea.app/pricing#black-friday) | 3 mois offerts · nouveaux clients, 100 premières utilisations | $0.00 · Pro 25K pendant 3 mois, puis $16.00 / mois | `BLACKFRIDAY26` |
 | [Nuelink](https://offer.nuelink.com/mcp/) | 50% de réduction · annuel | $144.00 / an · Standard, première année | `BFCM26` |
 | [Omnisend](https://www.omnisend.com/bfcm/) | 30% de réduction | — | — |
 | [OmniSocials](https://omnisocials.com/pricing) | Voir l’offre | — | — |
@@ -430,6 +494,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Pagerly](https://pagerly.io/) | 20% de réduction | — | `BF20` |
 | [Picmim](https://picmim.com/) | 50% de réduction | — | `PICMIM50` |
 | [Portico](https://portico.run/lifetime) | 25% de réduction | À partir de $37.00 · à vie | — |
+| [Postcards by Designmodo](https://designmodo.com/black-friday/) | jusqu’à 40% de réduction · forfaits annuels · jusqu’au 2026-11-30 | — | `BLACK` |
 | [Posteady](https://www.posteady.com/black-friday?promo=BF26) | 50% de réduction | $174.00 / an | `BF26` |
 | [Postiz](https://postiz.com/pricing) | Voir l’offre | — | — |
 | [Quotion](https://quotion.co/#pricing) | 30% de réduction | $8.40 / mois | `BLACKFRIDAY2026` |
@@ -439,6 +504,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Rapid Indexer](https://rapid-indexer.com/) | Jusqu’à 40% de crédits supplémentaires | Selon la recharge | — |
 | [Referly Atlas](https://www.referly.so/atlas/ltd) | Jusqu’à 78% de réduction | À partir de $299.00 · paiement unique | — |
 | [RenewRoster](https://renewroster.com/pricing) | 50% de réduction | $75.00 / an | — |
+| [Sabi](https://meetsabi.com/pages/blackfriday) | environ 50% de réduction · 6 mois de Sabi Pro | US$495.00 / 6 mois | — |
 | [Semrush](https://semrush.sjv.io/e4x4N1) | Jusqu’à 17% de réduction | — | — |
 | [Sender](https://www.sender.net/pricing/) | Voir l’offre | — | — |
 | [Sequenzy](https://sequenzy.com/black-friday) | 30% de réduction | À partir de $143.50 / an | `BLACKFRIDAY` |
@@ -450,6 +516,7 @@ Apprenez Linux, le DevOps, la cybersécurité et le cloud grâce à des travaux 
 | [Terlido](https://terlido.com/pricing) | 40% de réduction | À partir de $23.40 / utilisateur / mois · Email Pro | `BF2026` |
 | [Tickabee](https://tickabee.com/black-friday-2026) | 50% de réduction | $9.50 / mois | `OFF50` |
 | [Umami Manager](https://apps.apple.com/de/app/umami-analytics-manager/id6462423358) | 25% de réduction | — | — |
+| [Unspam.email](https://unspam.email/black-friday) | 35% de réduction · première facture · 2026-11-16–2026-12-01 | — | `BLACKFRIDAY35` |
 | [Updately](https://updately.ai/) | 20% de réduction | — | `BF20` |
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 72% de réduction | — | `BFCM72` |
 | [Vemetric](https://vemetric.com/) | 30% de réduction | — | `BF2026` |

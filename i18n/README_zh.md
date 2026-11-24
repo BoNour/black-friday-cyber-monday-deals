@@ -49,11 +49,13 @@
 | --- | --- | --- | --- |
 | [1Password](https://1password.com/pricing/password-manager) | 约减免 25% · 首年 | 起价 $2.99 / 月 · 按年计费 | — |
 | [anon.li](https://anon.li/pricing) | 立减 40% · 首年 | $41.69 / 年 · Plus, 首年 | `BLKFRI40` |
+| [AppSecD](https://dedsecops.com/pricing) | 立减 30% · 所有付费套餐 | 起价 $14 / 月 · Starter | — |
 | [Aster Mail](https://astermail.org/) | 立减 50% | $4.49 / 月 | — |
 | [CyberGhost](https://www.cyberghostvpn.com/) | 立减 83% | $61.32 / 28 个月 | — |
 | [ExpressVPN](https://www.expressvpn.com/pricing) | 最高减免 80% | 起价 $83.72 / 28 个月 | — |
 | [Imunify360](https://www.imunify360.com/) | 最高减免 40% | — | — |
 | [IPVanish](https://www.ipvanish.com/black-friday/) | 查看优惠 | 起价 $2.19 / 月 · 两年期方案 | — |
+| [Leave Me Alone](https://leavemealone.com/pricing/) | 立减 83% · Unlimited 年付套餐 | $59 / 年 · 不限邮箱数量，续费同价 | — |
 | [NordPass](https://nordpass.com/black-friday/) | 最高减免 50% · 年付 | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | 最高减免 78% | 起价 $3.49 / 月 · 预付方案 | — |
 | [OffSeq Breach](https://breach.offseq.com/en#pricing) | 立减 50% | — | `BLACK` |
@@ -65,6 +67,7 @@
 | [Proton Pass](https://proton.me/pass/black-friday) | 最高减免 60% | $23.88 / 年 · Plus, 首年 | — |
 | [Proton VPN](https://protonvpn.com/black-friday) | 立减 70% · Plus, 首年 | $35.88 / 首年 · Plus | — |
 | [PureVPN](https://www.purevpn.com/black-friday) | 立减 87% | $101.55 / 5 年 | — |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | 立减 50% Pro Lifetime (原价 $29.99 USD) | $14.99 USD · 终身版 | `BFCM26` |
 | [Surfshark](https://surfshark.com/pricing) | 最高减免 90% | 起价 $67.23 / 27 个月 | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 立减 30% | $20.30 · Standard | `BF2026` |
 
@@ -79,10 +82,13 @@
 | --- | --- | --- | --- |
 | [1bench](https://1bench.dev/black-friday) | 立减 50% | $99.00 · 终身版 | `FCBF26` |
 | [Aba Search and Replace](https://www.abareplace.com/) | 立减 50% | $15.00 · 终身版 | `Sale2026` |
+| [Akev](https://akev.dev/pricing) | 立减 30% | $34.30 · 一次性付款, Pro 许可证 | `BLACKFRIDAY` |
+| [APIKO](https://apiko.app/) | 额外 10% 积分 · 付费充值, 截至 2026-11-27 (PT) | — | — |
 | [Atelier](https://appsbymo.app/atelier/) | 立减 50% | — | `BLACKFRIDAY` |
 | [BucketMate](https://www.bucketmate.app/pricing) | 立减 40% | $23.40 · 终身版 | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 立减 40% | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 立减 30% | $6.99 · 标准许可证 | `MACPLUSBLACKFRIDAY26` |
+| [data-peek](https://www.datapeek.dev/pricing) | 立减 40% · 2026-11-26–2026-12-01 (PT) | $17.40 / 年 · Pro | — |
 | [Device MCP](https://devicemcp.ai/pricing) | 立减 30% | $48.30 · 终身版 | `BF2026` |
 | [DevIntern](https://devintern.com/pricing/) | 首张账单立减 40% · 2026 年 11 月 20 日至 12 月 1 日 | $59.40 · Supporter License 一次性付款或 Team 首月 | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 立减 60% | — | `BLACKFRIDAY2026` |
@@ -96,16 +102,22 @@
 | [Lidnight](https://lidnight.app/en/buy/) | 立减 50% | — | `BF50` |
 | [Looq](https://parcse.com/looq) | 立减 10% | $9.00 · 一次性购买 | `PARCSEBLACKFRIDAY` |
 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | 立减 60% | $3.82 · 一次性购买 | — |
+| [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | 约减免 20% · 截至 2026-11-30 (PT); 限兑换 500 次 | US$4.79 · 单用户终身版 | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) |
 | [Piloterr](https://www.piloterr.com/blackfriday) | 立减 50% · 前 3 个月 | 起价 $24.50 / 月 · 前 3 个月 | `BLACKFRIDAY50` |
 | [PortDroid](https://portdroid.net/black-friday-2026) | 立减 50% | $4.69 · 终身版 | `CYBER_2026` |
 | [Proxyman](https://proxyman.com/pricing) | 立减 30% | $62.30 · Standard | `BF2026` |
+| [Pulsetic](https://pulsetic.com/black-friday) | 立减 35% · 首次付款 · 2026-11-16–2026-12-03 | $58.50 / 年 · Solo, 首年 | `BLACKFRIDAY35` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | 立减 50% | $44.50 · 一次性购买 | `BFCM2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 立减 50% | $4.99 · 一次性购买 | — |
+| [SaaScaffold](https://saascaffold.com/pricing) | 立减 50% · 2026-11-21–2026-12-06 | $49.00 · 一次性付款 | — |
+| [Social Fetch](https://www.socialfetch.dev/black-friday) | 双倍积分 · 新开月付套餐首月、新开年付套餐前 3 个月及积分包 | $59.00 · 一次性付款  Growth 积分包, 50,000 积分 | — |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12) | 最高减免 50% | — | — |
 | [SSH Workbench](https://sshworkbench.com/) | 立减 50% | $99.00 · 终身版 | `FCBF26` |
 | [TablePlus](https://tableplus.com/pricing) | 立减 25% | $74.25 · 一次性购买 | `BLACK_FRIDAY_2026` |
 | [TablePro](https://tablepro.app/black-friday) | 立减 40% | $47.40 · 一次性购买 | `BLACKFRIDAY2026` |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | 立减 30% | $20.30 · Standard | `BF2026` |
+| [TeaGo](https://teago.artsvit.com/) | 约减免 20% · 截至 2026-11-30 (PT); 限兑换 500 次 | US$3.99 · 单用户终身版 | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) |
+| [Toplify](https://toplify.app) | 立减 $40 · 2026-11-15–2026-12-01 | $49.99 USD · 终身版 (原为 $89.99) | [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) |
 | [VMPal](https://vmpal.com/pricing) | 立减 25% | $51.75 · 一次性购买 | — |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 立减 40% | $35.00 · 终身版 | — |
 | [WP Foreman](https://wpforeman.com/black-friday/) | 终身版优惠 | 起价 $199.00 · 终身版，25 个网站 | — |
@@ -124,6 +136,7 @@
 | [Cloudways](https://www.cloudways.com/en/promo-code.php) | 立减 80% · 前 2 个月 | 起价 $2.20 / 月 · 前 2 个月 | `BFCM802` |
 | [DediRock](https://dedirock.com/) | 查看优惠 | $9.88 / 年 | — |
 | [ESN Hosting](https://panel.esnoffical.com/plans) | 立减 85% · 首月 | $0.67 · 首月 | — |
+| [Faivelo](https://faivelo.com/black-friday) | 立减 80% | $12.00 / 年 | — |
 | [FlyWP](https://flywp.com/black-friday-deals/) | 终身版优惠 | 起价 $249.00 · 终身版 | — |
 | [Hosting.com](https://hosting.com/black-friday/) | 最高减免 89% | — | — |
 | [Hostinger](https://www.hostinger.com/black-friday) | 最高减免 85% | 起价 $2.24 / 月 · 查看计费周期 | — |
@@ -134,6 +147,7 @@
 | [Kinsta](https://kinsta.com/black-friday/) | 年付套餐免 3 个月 · 月付套餐前 3 个月立减 50% · 仅限新客户 | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 立减 30% | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | 查看优惠 | — | — |
+| [Static.app](https://static.app/black-friday) | 立减 35% · 首次付款 · 2026-11-16–2026-12-01 | $39.00 / 年 · Starter, 首年 | `BLACKFRIDAY35` |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | 最高减免 60% | — | — |
 
 <a name="ai"></a>
@@ -150,8 +164,11 @@
 | [Blip AI Pro](https://www.blipai.app/) | 立减 50% · 首年 | — | — |
 | [BoltAI](https://boltai.com/pricing) | 立减 40% | $239.40 · 终身版 | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 立减 90% | $63.00 · 终身版 | — |
+| [ConceptViz](https://conceptviz.app/pricing) | 终身版优惠 | $299.00 · 终身版 | — |
 | [Enconvo](https://enconvo.com/pricing) | 立减 30% · Lifetime 及 Cloud 首次付款 · 2026 年 11 月 20 日至 12 月 7 日 | $41.30 · Standard, 终身版 | — |
+| [FastScribe](https://fastscribe.org/pricing) | 立减 $31 · 首年，另赠 6,500 积分 · 仅限无有效订阅的账户 | $89.00 / 年 · Pro, 首年 | — |
 | [Fluent 2](https://fluentmac.app/) | 立减 25% | $36.75 · Basic | `BF2026` |
+| [MakeMidas](https://makemidas.com/pricing) | 最多额外 25% 积分 · 积分包 | $10 · 1,250 积分 (原为 1,000) · 一次性付款 | — |
 | [Mo](https://appsbymo.app/mo/) | 立减 50% | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 立减 30% | — | `BLFCM2026` |
 | [PDF Pals](https://pdfpals.com/buy) | Basic/Plus 立减 20%；终身版 $149 | $149.00 · 终身版 | `BF20` |
@@ -162,6 +179,7 @@
 | [SciFig](https://scifig.ai/black-friday) | 额外减免 20% | $80.00 / 年 · Starter, 首年 | — |
 | [ScribeToAny](https://scribetoany.com/) | 立减 30% | — | — |
 | [Sintra AI](https://sintra.ai/pricing) | 查看优惠 | — | — |
+| [Skillry](https://skillry.dev/pricing) | 立减 50% · Pro 首月或首年; 立减 $80 Founding Lifetime | $9.99 / 月 · 首月; $79.00 / 年 · 首年; $169.00 · 终身版 | — |
 | [Slashspace](https://www.slashspace.ai/) | 立减 51% | $122.01 · 终身版 | `BF2026` |
 | [SmartyTab](https://smartytab.app/) | 立减 30% | $69.30 · 终身版 | — |
 | [Supacite](https://supacite.com/) | 终身版优惠 | $89.00 早期档; $129.00 后续档 · 终身版 | `CITEBF` |
@@ -169,7 +187,9 @@
 | [TypingMind](https://www.typingmind.com/) | 立减 60% | — | `BLACKFRIDAY2026` |
 | [Vinaa](https://www.vinaa.ai/) | 立减 44% | $39.00 · 终身版 | — |
 | [Vogoo AI](https://vogoo.ai/black-friday) | 立减 40% | $89.64 / 年 · Pro | — |
+| [Voibe](https://www.getvoibe.com/pricing/) | 立减 25% · Dictation 和 Work 套餐, 截至 2026-11-30 | $149.25 · Dictation 终身版; $299.25 · Work 终身版 | `BFCM26` |
 | [Wiredesk](https://wiredesk.ai/pricing) | 立减 30% | 起价 $27.30 / 月 · 按年计费, 首年 | `BLACKFRIDAY2026` |
+| [Wovo](https://wovo.one/#pricing) | 立减 50% · Pro 和 Max 年付 | $72 / 年 · Pro; $174 / 年 · Max | — |
 
 <a name="design"></a>
 
@@ -180,8 +200,10 @@
 
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | 额外 50% 积分 · 一次性积分包; 最多额外 300 积分 · 符合条件的月付套餐, 首月 | 起价 US$9.90 · 一次性付款; 起价 US$19.90 / 月 · 首月 | — |
 | [Atmos](https://atmos.style/) | 最高减免 50% | $79.50 · 终身版 | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | 立减 60% | $9.99 · 终身版 | — |
+| [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | 立减 50% | $39.99 · 终身版 | — |
 | [Bimg AI](https://bimg.ai/black-friday) | 立减 50% | — | — |
 | [Bindrik](https://bindrik.com/en) | 立减 43% | $39.00 · 一次性购买 | `BLACKFRIDAY2026` |
 | [BirdFrame](https://getbirdframe.com/#black-friday) | 立减 33% | $19.99 · 一次性购买 | — |
@@ -190,26 +212,33 @@
 | [Cutfac](https://cutfac.com/pricing) | 立减 40% | 起价 $29.40 · 一次性购买 | `BF2026` |
 | [Dabbit](https://dabbit.app/) | 立减 30% | — | `BLACKFRIDAY` |
 | [ElevenLabs](https://elevenlabs.io/pricing) | 查看优惠 | — | — |
+| [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) | 立减 66% | $10.20 · 终身版 | `ETKBF66` |
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | 立减 40% | $6.00 · 一次性购买 | — |
 | [FaceScreen](https://facescreen.app/) | 立减 30% | $4.19 · 一次性购买 | `FACESCREEN30` |
+| [FixImage](https://fiximage.net/black-friday) | 双倍积分 · 首个订阅周期和订阅用户积分包, 截至 2026-12-01 (PT) | — | — |
 | [FL Studio](https://www.image-line.com/specials) | 最高减免 50% | — | — |
 | [FluidCast](https://fluidcastapp.com/event.html) | 立减 50% | — | `BLACKFRIDAY2026LT` |
 | [Fresible Music](https://music.fresible.com/) | 立减 50% | — | — |
+| [Image to 3D AI](https://imageto3dai.org/black-friday) | 双倍积分 · 首个订阅周期和订阅用户积分包, 截至 2026-12-01 (PT) | — | — |
+| [ImgVid](https://imgvid.net/black-friday) | 双倍积分 · 首个订阅周期和订阅用户积分包, 截至 2026-12-01 (PT) | — | — |
 | [inReels](https://www.inreels.ai/pricing) | 立减 50% | — | `BLACKFRIDAY2026` |
 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/) | 立减 25% · 首年 | $299.70 / 年 · Pro, 首年 | — |
 | [Kavel](https://www.kavel.ai/pricing) | 双倍积分 | — | — |
 | [Kensa](https://www.kensa.cc/deals/black-friday) | 立减 25% | — | — |
 | [KeyScreen](https://keyscreen.app/) | 立减 30% | $4.19 · 一次性购买 | `KEYSCREEN30` |
+| [Keystro](https://keystro.app/#pricing) | 立减 30% · 一次性购买许可证 | $4.89 · Standard; $9.80 · Extended; $27.30 · Team | `BFKEYSTRO26` |
 | [LS Graphics](https://www.ls.graphics/) | 立减 50% | — | — |
 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/) | 立减 40% | — | `BLACKFRIDAY26` |
 | [MingCute Animation](https://www.mingcute.com/animation) | 立减 30% | — | `BF2026` |
 | [MingCute ICONS](https://mgc.mingcute.com/) | 立减 30% | — | `BF2026` |
 | [MingCute Weather](https://mgcweather.framer.website/) | 立减 30% | — | `BF2026` |
+| [Motionflare](https://motionflare.ai/pricing) | 立减 50% · 新订阅首月 | $14.50 / 月 · Pro, 首月; $49.50 / 月 · Max, 首月 | — |
 | [Nano Banana](https://nanobanana.org/black-friday) | 立减 50% | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | 立减 20% | — | — |
 | [Oil Studio](https://studio.oiloil.org/en/) | 折上 8 折（当前首发价 $39 基础上再减 20%，原价 $49） | $31.20 · 一次性购买（2 台 Mac） | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 立减 43% | $3.99 · 一次性购买 | — |
 | [Picmal](https://picmal.app/pricing) | 立减 50% | 起价 $14.50 · 1 台 Mac | `BLACKFRIDAY` |
+| [PicVideo](https://picvideo.net/black-friday) | 双倍积分 · 首个订阅周期和订阅用户积分包, 截至 2026-12-01 (PT) | — | — |
 | [Pimosa](https://pimosa.app) | 立减 40% · Personal 和 Plus | Personal $17.40 · Plus $29.40 · 一次性付款 | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 立减 40% · 年付 | 起价 $42.48 / 年 | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 立减 30% | $9.80 · 一次性购买 | `PRESENTIFY30` |
@@ -217,6 +246,8 @@
 | [Reason Studios](https://www.reasonstudios.com/) | 最高减免 50% | — | — |
 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?mt=8) | 立减 60% | $17.99 · 终身版 | — |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | 立减 40% | $3.00 · 一次性购买 | `BLACKFRIDAY26` |
+| [RemoveVideoBG.com](https://removevideobg.com/black-friday) | 双倍积分 · 积分包及首月; 额外 6 个月的积分 · 新开通的年付套餐 · 截至 2026-12-01 (PT) | — | — |
+| [Renderly](https://renderly.video/pricing) | 立减 30% · 新订阅首次付款 | $20.30 / 月 · Creator, 首月 | `BLACKFRIDAY2026` |
 | [RenderPixels](https://renderpixels.com/) | 立减 20% | — | `BF2026` |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | 立减 40% | $6.00 · 一次性购买 | `BLACKFRIDAY26` |
 | [Rindraw](https://rindraw.com/black-friday-2026/) | 立减 50% | $6.49 · 一次性购买 | — |
@@ -234,6 +265,10 @@
 | [SmoothCut](https://smoothcut.studio/pricing) | 立减 40% | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | 立减 20% | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | 查看优惠 | — | — |
+| [Super Resolution](https://superresolution.pro/black-friday) | 双倍积分 · 首个订阅周期和订阅用户积分包, 截至 2026-12-01 (PT) | — | — |
+| [Unraster](https://unraster.ai/pricing) | 立减 45% · 150 积分包 | $43.95 · 一次性付款 | `BLACKFRIDAY45` |
+| [ViralReel](https://www.viralreel.app/pricing) | 最高减免 30% · 指定的一次性积分包 | US$16.00 · Popular, 180 积分; US$28.00 · Creator, 480 积分 | — |
+| [YIX](https://yix.ai/pricing) | 立减 50% · 新开通月付套餐的首月 | 起价 US$9.95 / 月 · Starter, 首月 | — |
 
 <a name="web"></a>
 
@@ -252,6 +287,7 @@
 | [Framer](https://www.framer.com/pricing) | 查看优惠 | — | — |
 | [GutSlider Pro](https://gutslider.com/black-friday/) | 最高减免 40% | 起价 $69.00 · 终身版 | — |
 | [HextaUI Pro](https://hextaui.com/pricing) | 最高减免 40% | $49.00 · 早鸟价 | — |
+| [Liite Lifetime Bundle](https://liite.co/lifetime) | 立减 83% | $249.00 · 终身版 | — |
 | [MingCute UI](https://ui.mingcute.com/) | 立减 30% | — | `BF2026` |
 | [Must-Have Plugins](https://musthaveplugins.com/offer/) | 最高减免 70% | — | — |
 | [Plugin Wizards](https://pluginwizards.com/black-friday/) | 立减 40% | — | `WIZARDS40` |
@@ -259,6 +295,8 @@
 | [Scrollsequence](https://beta.scrollsequence.com/black-friday-cyber-monday-deals) | 立减 50% | — | — |
 | [Shadcn.io](https://www.shadcn.io/pricing) | 查看优惠 | — | — |
 | [ShipAhead](https://shipahe.ad/) | 立减 50% | — | — |
+| [Siter.io](https://siter.io/black-friday) | 立减 35% · 首次付款 · 2026-11-16–2026-12-01 | $54.60 / 年 · Solo, 首年 | `BLACKFRIDAY35` |
+| [Slides by Designmodo](https://designmodo.com/black-friday/) | 最高减免 40% · 年付套餐 · 截至 2026-11-30 | — | `BLACK` |
 | [SportyBlocks](https://sportyblocks.com/?discount=BLACKFRIDAY) | 立减 40% | $29.00 · 许可证 | `BLACKFRIDAY` |
 | [Systeme.io](https://blackfriday.systeme.io/) | 立减 40% | $170.00 / 年 · Startup | — |
 | [Wordify](https://wordify.com/black-friday/) | 立减 50% | — | `BF50` |
@@ -278,25 +316,31 @@
 | [ActiveDock 2](https://noteifyapp.com/activedock/) | 立减 30% | $41.99 · 终身版 | `MACPLUSBLACKFRIDAY26` |
 | [Aevo](https://aevo.so/en) | 立减 30% | — | — |
 | [Almighty](https://indiegoodies.com/almighty) | 立减 50% | $7.49 · 终身版 | `INDIEGOODIESBF26` |
+| [AntShot](https://antshot.com/) | 立减 35% | $25.35 · 终身版 | `BLACKFRIDAY26` |
 | [AppsByMo](https://appsbymo.app/) | 立减 50% | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | 立减 25% | $30.00 · 一次性购买 | `BLACKFRIDAY26` |
 | [Beaming](https://trybeaming.app/) | 立减 40% | — | `BLACKFRIDAY40` |
+| [Check Engine SEO](https://checkengineseo.com/pricing/) | 黑五优惠 · 截至 2026-12-02 | $19.99 · 一次性付款 | — |
+| [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | 立减 50% Lifetime (原价 $14.99 USD) | $7.49 USD · 终身版 | `BFCM26` |
 | [Chronoid](https://www.chronoid.app/pricing) | 立减 50% | $74.50 · 终身版 | `BLACKFRIDAY26` |
 | [Chute](https://appsbymo.app/chute/) | 立减 50% | — | `BLACKFRIDAY` |
 | [Circleback](https://circleback.ai/pricing) | 查看优惠 | — | — |
+| [Clappia](https://www.clappia.com/black-friday-offer) | 立减 50% · 年付套餐，仅限新客户 · 截至 2026-12-31 | — | `BLACKFRD` |
 | [Classic Commander](https://noteifyapp.com/classic-commander/) | 立减 30% | — | `MACPLUSBLACKFRIDAY26` |
 | [CleanClip](https://pricing.cleanclip.cc/src) | 立减 30% | $20.99 · 一次性购买 | `BF2026` |
 | [Clipboard Manager Pro](https://clipboardman.com/) | 立减 35% | $15.59 / 年 | `BF2026` |
 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | 立减 30% | $20.99 · 终身版 | `MACPLUSBLACKFRIDAY26` |
 | [CoolDock](https://cooldock.app/) | 立减 50% | €19.99 · 终身版 | `BLACK2026FRIDAY50` |
 | [Cozy](https://cozyjournal.app/) | 立减 50% | $24.50 · 一次性购买 | `BLACKFRIDAY` |
-| [Crisp](https://crispvideo.app/pricing/) | 立减 50% | $14.50 · 一次性购买 | — |
+| [Crisp](https://crispvideo.app/pricing/) | 黑五优惠 · 截至 2026-12-02 | $9.99 · 一次性付款 | — |
 | [Cue (AppsByMo)](https://appsbymo.app/cue/) | 立减 50% | $14.50 · 一次性购买 | `BLACKFRIDAY` |
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | 立减 25% Pro | $18.90 · 终身版 | `BLACKFRIDAY2026` |
+| [datacheck.cc](https://datacheck.cc/en/pricing) | 立减 30% · 一次性积分包和永久许可证 | 起价 HK$81.20 · 一次性付款 | — |
 | [Dayora](https://www.dayora.ai/black-friday) | 立减 40% | $43.20 / 年 | — |
 | [Deckloud](https://deckloud.com/black-friday/) | 立减 40% | $22.99 · 终身版 | `BF2026` |
+| [Deletti](https://deletti.app/#black-friday) | 立减 50% Single Lifetime (原价 $17.99 USD) | $8.99 USD · 终身版 | `BFCM26` |
 | [Dictionaries](https://dictionaries.io/) | 立减 50% | $9.99 · 终身版 | `BF26` |
-| [Docket](https://docketseo.app/) | 立减 50% | $29.50 · 一次性购买 | — |
+| [DiskMate](https://diskmate.app) | 立减 50% | $5.00 · 终身版 | — |
 | [DockFlow](https://dockflowapp.io/) | 立减 50% | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | 最高减免 50% | 起价 $12.99 · 终身版 | — |
 | [DockView 2](https://noteifyapp.com/dockview/) | 立减 30% | $34.99 · 终身版 | `MACPLUSBLACKFRIDAY26` |
@@ -309,9 +353,11 @@
 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | 立减 50% | $29.99 · 终身版 | — |
 | [ExtraBar](https://extrabar.app/) | 立减 50% | — | `BLACK2026FRIDAY50` |
 | [ExtraDock](https://extradock.app/) | 立减 50% | €19.99 · 终身版 | `BLACK2026FRIDAY50` |
+| [Fadeclock](https://fadeclock.app/#price) | 立减 50% · 截至 2026-11-30 (PT) | $6.00 · 一次性付款 | `BF2026` |
 | [FileOctopus](https://www.fileoctopus.com/black-friday.html) | 立减 50% | $14.99 · 一次性购买，2 台 Mac | `BLACKFRIDAY2026` |
 | [Files to Notion](https://www.files2notion.com/) | 立减 20% | $31.20 · 一次性购买 | `BLACK2026FRIDAY` |
 | [Fileside](https://www.fileside.app/) | 立减 50% | $16.50 · 终身版 | `BLKFRD26` |
+| [Float](https://float.gilla.fun/#pricing) | 立减 40% · 2026-11-26–2026-12-01 (PT) | $2.99 · 终身版 | `BF26FLOAT` |
 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | 立减 30% | — | — |
 | [Fresh Notch](https://freshnotch.com/#pricing) | 查看优惠 | — | `BFRIDAY` |
 | [Gramcheck](https://extensions.loopspec.com/gramcheck) | 立减 51% | $19.00 · 一次性购买 | — |
@@ -329,6 +375,8 @@
 | [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 立减 30% | 因应用而异 | `MACPLUSBLACKFRIDAY26` |
 | [Margin](https://appsbymo.app/margin/) | 立减 50% | $4.99 · Mac App Store | `BLACKFRIDAY` |
 | [MeetingDebrief](https://meetingdebrief.com/) | 立减 35% | — | `BFCM2026` |
+| [MeetMic](https://meetmic.app/buy) | 立减 55% · 终身版 · 2026-11-23–2026-12-10 | $26.55 · 终身版 | `BF26` |
+| [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 立减 40% | $29.99 · 终身版 | — |
 | [MouseUp](https://mouseup.app/pricing) | 立减 50% | $4.00 · 终身版 | `MMFBF2026` |
 | [MultiDock 2](https://noteifyapp.com/multidock/) | 立减 30% | $27.99 · 终身版 | `MACPLUSBLACKFRIDAY26` |
 | [MuteDeck](https://mutedeck.com/) | 立减 35% | — | `BFCM2026` |
@@ -336,9 +384,11 @@
 | [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | 立减 50% | — | — |
 | [Noteline](https://noteline.io/pricing) | 立减 50% | — | — |
 | [OkayTab](https://okaytab.app/) | 立减 30% · 首个计费周期 | $2.51 · 首月 | `BLACKFRIDAY2026` |
-| [Outlier](https://outlier.host/) | 立减 50% | $24.50 · 一次性购买 | — |
+| [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | 立减 50% · 首年或前 3 个月 | 起价 US$50.00 / 年 · 首年; 起价 US$5.00 / 月 · 前 3 个月 | — |
+| [Outlier](https://outlier.host/pricing/) | 黑五优惠 · 截至 2026-12-02 | $16.99 · 一次性付款 | — |
 | [Overcal](https://indiegoodies.com/overcal) | 立减 50% | $3.99 · 终身版 | `INDIEGOODIESBF26` |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 立减 50% | — | — |
+| [Paste](https://pasteapp.io/black-friday-2026) | 立减 50% · 首年 | $14.99 / 年 · 首年 | `BLACKFRIDAY2026` |
 | [PastePal](https://indiegoodies.com/pastepal) | 立减 50% | $7.49 · 终身版 | `INDIEGOODIESBF26` |
 | [PeakHour](https://peakhour.app/) | 立减 30% | $34.99 · 终身版 | — |
 | [Perch](https://perch.run/black-friday) | 立减 40% | $17.40 · 终身版 | `BLACKFRIDAY2026` |
@@ -355,12 +405,14 @@
 | [ShiftPlus](https://shiftplus.app/black-friday/) | 立减 40% | 起价 $14.40 · 终身版 | — |
 | [Shiori](https://shioriapp.io/) | 立减 50% | — | `BLACK2026FRIDAY50` |
 | [SlapMac](https://slapmac.com/) | 立减 30% | $9.09 · 一次性购买 | `BLACKFRIDAY26` |
+| [Snapperon](https://snapperon.com/) | 立减 50% · 前 12 个月、首年或终身版 | US$1.00 / 月 · 前 12 个月; US$10.00 / 年 · 首年; US$19.50 · 终身版 | `BLACKFRIDAY26` |
 | [Soluna](https://appsbymo.app/soluna/) | 立减 50% | — | `BLACKFRIDAY` |
 | [SpaceBroom](https://spacebroom.app/en/) | 立减 30% | — | `BLACKFRIDAY26` |
 | [Spacepal](https://getspacepal.com/black-friday/) | 立减 20% | $7.99 · 一次性购买 | — |
 | [SpaceWise 2.0 (Mac)](https://www.spacewisemac.in/pricing) | 查看优惠 | — | — |
 | [Stage View](https://noteifyapp.com/stage-view/) | 立减 30% | $5.59 · 终身版 | `MACPLUSBLACKFRIDAY26` |
 | [SubManager](https://submanager.app/) | 立减 50% | $4.99 · 终身版 | — |
+| [Sum](https://sumtranscribe.com/pricing) | 立减 50% · Sum Pro 网页版首月或首年, 截至 2026-11-30 (美国东部时间) | — | `SUMBF50` |
 | [SupaSidebar](https://supasidebar.com/) | 立减 50% | $39.50 · 终身版 | `SIDEBARBF50` |
 | [SuperTab 7](https://noteifyapp.com/supertab/) | 立减 30% | $34.99 · 终身版 | `MACPLUSBLACKFRIDAY26` |
 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | 立减 30% | $27.99 · 终身版 | `MACPLUSBLACKFRIDAY26` |
@@ -372,6 +424,7 @@
 | [Todowing](https://todowing.com/) | 立减 40% | $5.99 · 终身版 | `BF2026` |
 | [Transcrybe](https://transcrybe.app/) | 立减 50% | — | — |
 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | 立减 30% | $20.99 · 终身版 | `MACPLUSBLACKFRIDAY26` |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | 立减 30.8% | US$8.99 · 一次性付款 | — |
 | [Typefu](https://indiegoodies.com/typefu) | 立减 50% | $3.99 · 终身版 | `INDIEGOODIESBF26` |
 | [Upto](https://macupto.com/) | 立减 10% | $13.49 / 首年 · 5 台 Mac | `UPTOBLACKFRIDAY` |
 | [Vigil](https://appsbymo.app/vigil/) | 立减 50% | — | `BLACKFRIDAY` |
@@ -381,6 +434,7 @@
 | [Wick](https://appsbymo.app/wick/) | 立减 50% | — | `BLACKFRIDAY` |
 | [Winch](https://getwinch.app/#pricing) | 立减 30% | $27.30 · 一次性购买，2 台 Mac | `BLACKFRIDAY2026` |
 | [Wins](https://wins.cool/) | 立减 40% | — | `BF_26` |
+| [Wishbar](https://wishbar.app/black-friday) | 立减 50% | $19.00 · 一次性付款 | — |
 | [XFlow](https://foxecom.com/pages/bfcm-2026) | 立减 35% | — | — |
 | [Y-Pod](https://www.y-pod.app/#black-friday) | 立减 50% | $49.99 · 终身版 | — |
 | [Yonder](https://appsbymo.app/yonder/) | 立减 50% | — | `BLACKFRIDAY` |
@@ -396,10 +450,14 @@
 | 产品 | 折扣 | 优惠价 | 优惠码 |
 | --- | --- | --- | --- |
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 立减 50% | — | `BLACKFRIDAY26` |
+| [Appfigures](https://appfigures.com/platform/pricing) | 立减 50% · 持续 12 个月，每月最多减 $200 | — | `BF2650` |
+| [ASO Atlas](https://asoatlas.com/) | 立减 30% · 年付套餐首年 | $70.00 / 年 · 首年 | `BLACKWEEK30` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 立减 20% | $39.20 · 报告 | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 立减 50% · 前 6 个月 | — | — |
+| [BizPeel](https://bizpeel.com/pricing) | 立减 50% · 首月; 立减 20% · 首年 | 起价 $14.95 / 月 · Starter, 首月 | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | 立减 $100 · 一次性许可 | $150.00 · 一次性付款，Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | 查看优惠 | — | — |
+| [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | 立减 87% · 11 款产品的终身套装 | $129.00 · 一次性付款 | `BUNDLE129` |
 | [Chatbase](https://www.chatbase.co/pricing) | 查看优惠 | — | — |
 | [Citation Rocket](https://www.citationrocket.com/pricing) | 立减 40% · 终身版 | $59.00 · 一次性付款，Lifetime | — |
 | [CiteWing](https://citewing.com/) | Pro 立减 36%；目录提交服务立减 50% | $95.00 / 月 · Pro | — |
@@ -408,18 +466,24 @@
 | [DataFast](https://datafa.st/) | 查看优惠 | — | — |
 | [Digital Carnage](https://digitalcarnage.info/) | 立减 25% | — | — |
 | [Directify](https://directify.app/founders) | 立减 56% | $599.00 / 2 年 · Growth | — |
+| [Directory Ideas](https://directoryideas.ai/) | 立减 33% · 终身版 | $59.00 · 一次性付款, Lifetime | — |
 | [EngageBay](https://www.engagebay.com/offer) | 立减 40% | — | — |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | 查看优惠 | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | 查看优惠 | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 立减 20% | $159.00 / 月 · Growth | — |
+| [HeyStream](https://heystream.com/pricing?coupon=BF2026) | 立减 40% · Launch、Growth 或 Scale 年付首年，仅限新客户 · 需先注册试用 | US$1,072.80 / 年 · Growth, 首年 | `BF2026` |
+| [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | 立减 40% · Starter、Growth 或 Success 年付首年，仅限新客户 · 需先注册试用 | US$234.00 / 年 · Starter, 首年 | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | 查看优惠 | — | — |
+| [Highseat](https://highseat.com/pricing?billing=yearly) | 立减 40% · 年付套餐首年，仅限新客户 | 起价 $54.00 / 年 · 首年 | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 立减 50% | — | — |
+| [Keyword Race](https://keywordrace.com/) | 约减免 40% · 终身版 | $35.00 · 一次性付款 | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 立减 30% · 前 3 个月 | 起价 $14.00 / 月 · 前 3 个月 | — |
 | [LandinTools](https://tools.landin.page/advertise) | 立减 50% | $24.50 / 年 · 精选展示位 | `BF2026` |
 | [Later](https://later.com/black-friday-sale/) | 免费 6 个月 | $37.50 / 月 · 按年计费 | — |
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | 立减 30% | $147.00 / 年 | `BLACKFRIDAY2026` |
 | [MagicPost](https://magicpost.in/blog/magicpost-black-friday) | 最高减免 60% | 起价 $19.00 / 月 · 按年计费 | — |
 | [MailCheap](https://mailcheap.ai/pricing) | 查看优惠 | — | — |
+| [Mailtea](https://mailtea.app/pricing#black-friday) | 免 3 个月费用 · 仅限新客户，前 100 次兑换 | $0.00 · Pro 25K 前 3 个月，之后 $16.00 / 月 | `BLACKFRIDAY26` |
 | [Nuelink](https://offer.nuelink.com/mcp/) | 立减 50% · 年付 | $144.00 / 年 · Standard, 首年 | `BFCM26` |
 | [Omnisend](https://www.omnisend.com/bfcm/) | 立减 30% | — | — |
 | [OmniSocials](https://omnisocials.com/pricing) | 查看优惠 | — | — |
@@ -430,6 +494,7 @@
 | [Pagerly](https://pagerly.io/) | 立减 20% | — | `BF20` |
 | [Picmim](https://picmim.com/) | 立减 50% | — | `PICMIM50` |
 | [Portico](https://portico.run/lifetime) | 立减 25% | 起价 $37.00 · 终身版 | — |
+| [Postcards by Designmodo](https://designmodo.com/black-friday/) | 最高减免 40% · 年付套餐 · 截至 2026-11-30 | — | `BLACK` |
 | [Posteady](https://www.posteady.com/black-friday?promo=BF26) | 立减 50% | $174.00 / 年 | `BF26` |
 | [Postiz](https://postiz.com/pricing) | 查看优惠 | — | — |
 | [Quotion](https://quotion.co/#pricing) | 立减 30% | $8.40 / 月 | `BLACKFRIDAY2026` |
@@ -439,6 +504,7 @@
 | [Rapid Indexer](https://rapid-indexer.com/) | 最高加赠 40% 积分 | 因充值金额而异 | — |
 | [Referly Atlas](https://www.referly.so/atlas/ltd) | 最高减免 78% | 起价 $299.00 · 一次性购买 | — |
 | [RenewRoster](https://renewroster.com/pricing) | 立减 50% | $75.00 / 年 | — |
+| [Sabi](https://meetsabi.com/pages/blackfriday) | 约减免 50% · 6 个月 Sabi Pro | US$495.00 / 6 个月 | — |
 | [Semrush](https://semrush.sjv.io/e4x4N1) | 最高减免 17% | — | — |
 | [Sender](https://www.sender.net/pricing/) | 查看优惠 | — | — |
 | [Sequenzy](https://sequenzy.com/black-friday) | 立减 30% | 起价 $143.50 / 年 | `BLACKFRIDAY` |
@@ -450,6 +516,7 @@
 | [Terlido](https://terlido.com/pricing) | 立减 40% | 起价 $23.40 / 席位 / 月 · Email Pro | `BF2026` |
 | [Tickabee](https://tickabee.com/black-friday-2026) | 立减 50% | $9.50 / 月 | `OFF50` |
 | [Umami Manager](https://apps.apple.com/de/app/umami-analytics-manager/id6462423358) | 立减 25% | — | — |
+| [Unspam.email](https://unspam.email/black-friday) | 立减 35% · 首张账单 · 2026-11-16–2026-12-01 | — | `BLACKFRIDAY35` |
 | [Updately](https://updately.ai/) | 立减 20% | — | `BF20` |
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 立减 72% | — | `BFCM72` |
 | [Vemetric](https://vemetric.com/) | 立减 30% | — | `BF2026` |

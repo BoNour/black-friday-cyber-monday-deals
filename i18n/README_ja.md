@@ -49,11 +49,13 @@
 | --- | --- | --- | --- |
 | [1Password](https://1password.com/pricing/password-manager) | 約 25% 割引 · 初年度 | 最低価格 $2.99 / 月 · 年払い | — |
 | [anon.li](https://anon.li/pricing) | 40% 割引 · 初年度 | $41.69 / 年 · Plus, 初年度 | `BLKFRI40` |
+| [AppSecD](https://dedsecops.com/pricing) | 30% 割引 · すべての有料プラン | $14 から / 月 · Starter | — |
 | [Aster Mail](https://astermail.org/) | 50% 割引 | $4.49 / 月 | — |
 | [CyberGhost](https://www.cyberghostvpn.com/) | 83% 割引 | $61.32 / 28 か月 | — |
 | [ExpressVPN](https://www.expressvpn.com/pricing) | 最大 80% 割引 | 最低価格 $83.72 / 28 か月 | — |
 | [Imunify360](https://www.imunify360.com/) | 最大 40% 割引 | — | — |
 | [IPVanish](https://www.ipvanish.com/black-friday/) | 特典を確認 | 最低価格 $2.19 / 月 · 2 年プラン | — |
+| [Leave Me Alone](https://leavemealone.com/pricing/) | 83% 割引 · Unlimited 年払いプラン | $59 / 年 · 受信箱数無制限、更新時も同額 | — |
 | [NordPass](https://nordpass.com/black-friday/) | 最大 50% 割引 · 年払い | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | 最大 78% 割引 | 最低価格 $3.49 / 月 · 前払いプラン | — |
 | [OffSeq Breach](https://breach.offseq.com/en#pricing) | 50% 割引 | — | `BLACK` |
@@ -65,6 +67,7 @@
 | [Proton Pass](https://proton.me/pass/black-friday) | 最大 60% 割引 | $23.88 / 年 · Plus, 初年度 | — |
 | [Proton VPN](https://protonvpn.com/black-friday) | 70% 割引 · Plus, 初年度 | $35.88 / 初年度 · Plus | — |
 | [PureVPN](https://www.purevpn.com/black-friday) | 87% 割引 | $101.55 / 5 年 | — |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | 50% 割引 Pro Lifetime (通常価格 $29.99 USD) | $14.99 USD · 無期限 | `BFCM26` |
 | [Surfshark](https://surfshark.com/pricing) | 最大 90% 割引 | 最低価格 $67.23 / 27 か月 | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% 割引 | $20.30 · Standard | `BF2026` |
 
@@ -79,10 +82,13 @@
 | --- | --- | --- | --- |
 | [1bench](https://1bench.dev/black-friday) | 50% 割引 | $99.00 · 買い切り・無期限 | `FCBF26` |
 | [Aba Search and Replace](https://www.abareplace.com/) | 50% 割引 | $15.00 · 買い切り・無期限 | `Sale2026` |
+| [Akev](https://akev.dev/pricing) | 30% 割引 | $34.30 · 一括払い, Pro ライセンス | `BLACKFRIDAY` |
+| [APIKO](https://apiko.app/) | 追加クレジット 10% · 有料チャージ, 2026-11-27 まで (PT) | — | — |
 | [Atelier](https://appsbymo.app/atelier/) | 50% 割引 | — | `BLACKFRIDAY` |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% 割引 | $23.40 · 買い切り・無期限 | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 40% 割引 | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% 割引 | $6.99 · 標準ライセンス | `MACPLUSBLACKFRIDAY26` |
+| [data-peek](https://www.datapeek.dev/pricing) | 40% 割引 · 2026-11-26–2026-12-01 (PT) | $17.40 / 年 · Pro | — |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% 割引 | $48.30 · 買い切り・無期限 | `BF2026` |
 | [DevIntern](https://devintern.com/pricing/) | 初回請求が 40% 割引 · 2026 年 11 月 20 日〜12 月 1 日 | $59.40 · Supporter License の一括払い、または Team の初月 | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% 割引 | — | `BLACKFRIDAY2026` |
@@ -96,16 +102,22 @@
 | [Lidnight](https://lidnight.app/en/buy/) | 50% 割引 | — | `BF50` |
 | [Looq](https://parcse.com/looq) | 10% 割引 | $9.00 · 一括払い | `PARCSEBLACKFRIDAY` |
 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | 60% 割引 | $3.82 · 一括払い | — |
+| [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | 約 20% 割引 · 2026-11-30 まで (PT); 先着 500 件 | US$4.79 · 1 ユーザー向け無期限ライセンス | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) |
 | [Piloterr](https://www.piloterr.com/blackfriday) | 50% 割引 · 最初の 3 か月 | 最低価格 $24.50 / 月 · 最初の 3 か月 | `BLACKFRIDAY50` |
 | [PortDroid](https://portdroid.net/black-friday-2026) | 50% 割引 | $4.69 · 買い切り・無期限 | `CYBER_2026` |
 | [Proxyman](https://proxyman.com/pricing) | 30% 割引 | $62.30 · Standard | `BF2026` |
+| [Pulsetic](https://pulsetic.com/black-friday) | 35% 割引 · 初回支払い · 2026-11-16–2026-12-03 | $58.50 / 年 · Solo, 初年度 | `BLACKFRIDAY35` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | 50% 割引 | $44.50 · 一括払い | `BFCM2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 50% 割引 | $4.99 · 一括払い | — |
+| [SaaScaffold](https://saascaffold.com/pricing) | 50% 割引 · 2026-11-21–2026-12-06 | $49.00 · 一括払い | — |
+| [Social Fetch](https://www.socialfetch.dev/black-friday) | クレジット2倍 · 新規月払いの初月、新規年払いの最初の 3 か月、およびクレジットパック | $59.00 · 一括払い Growth パック, 50,000 クレジット | — |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12) | 最大 50% 割引 | — | — |
 | [SSH Workbench](https://sshworkbench.com/) | 50% 割引 | $99.00 · 買い切り・無期限 | `FCBF26` |
 | [TablePlus](https://tableplus.com/pricing) | 25% 割引 | $74.25 · 一括払い | `BLACK_FRIDAY_2026` |
 | [TablePro](https://tablepro.app/black-friday) | 40% 割引 | $47.40 · 一括払い | `BLACKFRIDAY2026` |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | 30% 割引 | $20.30 · Standard | `BF2026` |
+| [TeaGo](https://teago.artsvit.com/) | 約 20% 割引 · 2026-11-30 まで (PT); 先着 500 件 | US$3.99 · 1 ユーザー向け無期限ライセンス | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) |
+| [Toplify](https://toplify.app) | $40 割引 · 2026-11-15–2026-12-01 | $49.99 USD · 無期限 (通常 $89.99) | [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) |
 | [VMPal](https://vmpal.com/pricing) | 25% 割引 | $51.75 · 一括払い | — |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 40% 割引 | $35.00 · 買い切り・無期限 | — |
 | [WP Foreman](https://wpforeman.com/black-friday/) | 無期限版の特典 | 最低価格 $199.00 · 買い切り・無期限, 25 サイト | — |
@@ -124,6 +136,7 @@
 | [Cloudways](https://www.cloudways.com/en/promo-code.php) | 80% 割引 · 最初の 2 か月 | 最低価格 $2.20 / 月 · 最初の 2 か月 | `BFCM802` |
 | [DediRock](https://dedirock.com/) | 特典を確認 | $9.88 / 年 | — |
 | [ESN Hosting](https://panel.esnoffical.com/plans) | 85% 割引 · 初月 | $0.67 · 初月 | — |
+| [Faivelo](https://faivelo.com/black-friday) | 80% 割引 | $12.00 / 年 | — |
 | [FlyWP](https://flywp.com/black-friday-deals/) | 無期限版の特典 | 最低価格 $249.00 · 買い切り・無期限 | — |
 | [Hosting.com](https://hosting.com/black-friday/) | 最大 89% 割引 | — | — |
 | [Hostinger](https://www.hostinger.com/black-friday) | 最大 85% 割引 | 最低価格 $2.24 / 月 · 請求期間を確認 | — |
@@ -134,6 +147,7 @@
 | [Kinsta](https://kinsta.com/black-friday/) | 年払いプランは 3 か月無料 · 月払いプランは最初の 3 か月が 50% 割引 · 新規顧客限定 | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% 割引 | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | 特典を確認 | — | — |
+| [Static.app](https://static.app/black-friday) | 35% 割引 · 初回支払い · 2026-11-16–2026-12-01 | $39.00 / 年 · Starter, 初年度 | `BLACKFRIDAY35` |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | 最大 60% 割引 | — | — |
 
 <a name="ai"></a>
@@ -150,8 +164,11 @@
 | [Blip AI Pro](https://www.blipai.app/) | 50% 割引 · 初年度 | — | — |
 | [BoltAI](https://boltai.com/pricing) | 40% 割引 | $239.40 · 買い切り・無期限 | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% 割引 | $63.00 · 買い切り・無期限 | — |
+| [ConceptViz](https://conceptviz.app/pricing) | 無期限ライセンスのセール | $299.00 · 無期限 | — |
 | [Enconvo](https://enconvo.com/pricing) | 30% 割引 · Lifetime と Cloud の初回支払い · 2026 年 11 月 20 日〜12 月 7 日 | $41.30 · Standard, 買い切り・無期限 | — |
+| [FastScribe](https://fastscribe.org/pricing) | $31 割引 · 初年度、さらに 6,500 クレジット · 有効な契約がないアカウントが対象 | $89.00 / 年 · Pro, 初年度 | — |
 | [Fluent 2](https://fluentmac.app/) | 25% 割引 | $36.75 · Basic | `BF2026` |
+| [MakeMidas](https://makemidas.com/pricing) | 最大 25% ボーナスクレジット · クレジットパック | $10 · 1,250 クレジット (通常 1,000) · 一括払い | — |
 | [Mo](https://appsbymo.app/mo/) | 50% 割引 | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 30% 割引 | — | `BLFCM2026` |
 | [PDF Pals](https://pdfpals.com/buy) | Basic/Plus が 20% 割引、無期限版 $149 | $149.00 · 買い切り・無期限 | `BF20` |
@@ -162,6 +179,7 @@
 | [SciFig](https://scifig.ai/black-friday) | 追加 20% 割引 | $80.00 / 年 · Starter, 初年度 | — |
 | [ScribeToAny](https://scribetoany.com/) | 30% 割引 | — | — |
 | [Sintra AI](https://sintra.ai/pricing) | 特典を確認 | — | — |
+| [Skillry](https://skillry.dev/pricing) | 50% 割引 · Pro の初月または初年度; $80 割引 Founding Lifetime | $9.99 / 月 · 初月; $79.00 / 年 · 初年度; $169.00 · 無期限 | — |
 | [Slashspace](https://www.slashspace.ai/) | 51% 割引 | $122.01 · 買い切り・無期限 | `BF2026` |
 | [SmartyTab](https://smartytab.app/) | 30% 割引 | $69.30 · 買い切り・無期限 | — |
 | [Supacite](https://supacite.com/) | 無期限版の特典 | $89.00 早期枠; $129.00 後続枠 · 買い切り・無期限 | `CITEBF` |
@@ -169,7 +187,9 @@
 | [TypingMind](https://www.typingmind.com/) | 60% 割引 | — | `BLACKFRIDAY2026` |
 | [Vinaa](https://www.vinaa.ai/) | 44% 割引 | $39.00 · 買い切り・無期限 | — |
 | [Vogoo AI](https://vogoo.ai/black-friday) | 40% 割引 | $89.64 / 年 · Pro | — |
+| [Voibe](https://www.getvoibe.com/pricing/) | 25% 割引 · Dictation と Work のプラン, 2026-11-30 まで | $149.25 · Dictation 無期限; $299.25 · Work 無期限 | `BFCM26` |
 | [Wiredesk](https://wiredesk.ai/pricing) | 30% 割引 | 最低価格 $27.30 / 月 · 年払い, 初年度 | `BLACKFRIDAY2026` |
+| [Wovo](https://wovo.one/#pricing) | 50% 割引 · Pro と Max の年払い | $72 / 年 · Pro; $174 / 年 · Max | — |
 
 <a name="design"></a>
 
@@ -180,8 +200,10 @@
 
 | 製品 | 割引 | セール価格 | コード |
 | --- | --- | --- | --- |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | 追加クレジット 50% · 買い切りパック; 最大 300 ボーナスクレジット · 対象の月払いプラン, 初月 | US$9.90 から · 一括払い; US$19.90 から / 月 · 初月 | — |
 | [Atmos](https://atmos.style/) | 最大 50% 割引 | $79.50 · 買い切り・無期限 | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | 60% 割引 | $9.99 · 買い切り・無期限 | — |
+| [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | 50% 割引 | $39.99 · 無期限 | — |
 | [Bimg AI](https://bimg.ai/black-friday) | 50% 割引 | — | — |
 | [Bindrik](https://bindrik.com/en) | 43% 割引 | $39.00 · 一括払い | `BLACKFRIDAY2026` |
 | [BirdFrame](https://getbirdframe.com/#black-friday) | 33% 割引 | $19.99 · 一括払い | — |
@@ -190,26 +212,33 @@
 | [Cutfac](https://cutfac.com/pricing) | 40% 割引 | 最低価格 $29.40 · 一括払い | `BF2026` |
 | [Dabbit](https://dabbit.app/) | 30% 割引 | — | `BLACKFRIDAY` |
 | [ElevenLabs](https://elevenlabs.io/pricing) | 特典を確認 | — | — |
+| [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) | 66% 割引 | $10.20 · 無期限 | `ETKBF66` |
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | 40% 割引 | $6.00 · 一括払い | — |
 | [FaceScreen](https://facescreen.app/) | 30% 割引 | $4.19 · 一括払い | `FACESCREEN30` |
+| [FixImage](https://fiximage.net/black-friday) | クレジット2倍 · 初回契約期間と加入者向けパック, 2026-12-01 まで (PT) | — | — |
 | [FL Studio](https://www.image-line.com/specials) | 最大 50% 割引 | — | — |
 | [FluidCast](https://fluidcastapp.com/event.html) | 50% 割引 | — | `BLACKFRIDAY2026LT` |
 | [Fresible Music](https://music.fresible.com/) | 50% 割引 | — | — |
+| [Image to 3D AI](https://imageto3dai.org/black-friday) | クレジット2倍 · 初回契約期間と加入者向けパック, 2026-12-01 まで (PT) | — | — |
+| [ImgVid](https://imgvid.net/black-friday) | クレジット2倍 · 初回契約期間と加入者向けパック, 2026-12-01 まで (PT) | — | — |
 | [inReels](https://www.inreels.ai/pricing) | 50% 割引 | — | `BLACKFRIDAY2026` |
 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/) | 25% 割引 · 初年度 | $299.70 / 年 · Pro, 初年度 | — |
 | [Kavel](https://www.kavel.ai/pricing) | クレジット 2 倍 | — | — |
 | [Kensa](https://www.kensa.cc/deals/black-friday) | 25% 割引 | — | — |
 | [KeyScreen](https://keyscreen.app/) | 30% 割引 | $4.19 · 一括払い | `KEYSCREEN30` |
+| [Keystro](https://keystro.app/#pricing) | 30% 割引 · 買い切りライセンス | $4.89 · Standard; $9.80 · Extended; $27.30 · Team | `BFKEYSTRO26` |
 | [LS Graphics](https://www.ls.graphics/) | 50% 割引 | — | — |
 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/) | 40% 割引 | — | `BLACKFRIDAY26` |
 | [MingCute Animation](https://www.mingcute.com/animation) | 30% 割引 | — | `BF2026` |
 | [MingCute ICONS](https://mgc.mingcute.com/) | 30% 割引 | — | `BF2026` |
 | [MingCute Weather](https://mgcweather.framer.website/) | 30% 割引 | — | `BF2026` |
+| [Motionflare](https://motionflare.ai/pricing) | 50% 割引 · 新規契約の初月 | $14.50 / 月 · Pro, 初月; $49.50 / 月 · Max, 初月 | — |
 | [Nano Banana](https://nanobanana.org/black-friday) | 50% 割引 | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | 20% 割引 | — | — |
 | [Oil Studio](https://studio.oiloil.org/en/) | 20% 割引（$39 ローンチ価格からさらに20%オフ、通常$49） | $31.20 · 一括払い（2台のMac） | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% 割引 | $3.99 · 一括払い | — |
 | [Picmal](https://picmal.app/pricing) | 50% 割引 | 最低価格 $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [PicVideo](https://picvideo.net/black-friday) | クレジット2倍 · 初回契約期間と加入者向けパック, 2026-12-01 まで (PT) | — | — |
 | [Pimosa](https://pimosa.app) | 40% 割引 · Personal と Plus | Personal $17.40 · Plus $29.40 · 一括払い | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% 割引 · 年払い | 最低価格 $42.48 / 年 | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% 割引 | $9.80 · 一括払い | `PRESENTIFY30` |
@@ -217,6 +246,8 @@
 | [Reason Studios](https://www.reasonstudios.com/) | 最大 50% 割引 | — | — |
 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?mt=8) | 60% 割引 | $17.99 · 買い切り・無期限 | — |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | 40% 割引 | $3.00 · 一括払い | `BLACKFRIDAY26` |
+| [RemoveVideoBG.com](https://removevideobg.com/black-friday) | クレジット2倍 · パックと初月; 追加 6 か月分のクレジット · 新規年払いプラン · 2026-12-01 まで (PT) | — | — |
+| [Renderly](https://renderly.video/pricing) | 30% 割引 · 新規契約の初回支払い | $20.30 / 月 · Creator, 初月 | `BLACKFRIDAY2026` |
 | [RenderPixels](https://renderpixels.com/) | 20% 割引 | — | `BF2026` |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | 40% 割引 | $6.00 · 一括払い | `BLACKFRIDAY26` |
 | [Rindraw](https://rindraw.com/black-friday-2026/) | 50% 割引 | $6.49 · 一括払い | — |
@@ -234,6 +265,10 @@
 | [SmoothCut](https://smoothcut.studio/pricing) | 40% 割引 | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | 20% 割引 | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | 特典を確認 | — | — |
+| [Super Resolution](https://superresolution.pro/black-friday) | クレジット2倍 · 初回契約期間と加入者向けパック, 2026-12-01 まで (PT) | — | — |
+| [Unraster](https://unraster.ai/pricing) | 45% 割引 · 150 クレジットパック | $43.95 · 一括払い | `BLACKFRIDAY45` |
+| [ViralReel](https://www.viralreel.app/pricing) | 最大 30% 割引 · 対象の買い切りクレジットパック | US$16.00 · Popular, 180 クレジット; US$28.00 · Creator, 480 クレジット | — |
+| [YIX](https://yix.ai/pricing) | 50% 割引 · 新規月払いプランの初月 | US$9.95 から / 月 · Starter, 初月 | — |
 
 <a name="web"></a>
 
@@ -252,6 +287,7 @@
 | [Framer](https://www.framer.com/pricing) | 特典を確認 | — | — |
 | [GutSlider Pro](https://gutslider.com/black-friday/) | 最大 40% 割引 | 最低価格 $69.00 · 買い切り・無期限 | — |
 | [HextaUI Pro](https://hextaui.com/pricing) | 最大 40% 割引 | $49.00 · 早期価格 | — |
+| [Liite Lifetime Bundle](https://liite.co/lifetime) | 83% 割引 | $249.00 · 無期限 | — |
 | [MingCute UI](https://ui.mingcute.com/) | 30% 割引 | — | `BF2026` |
 | [Must-Have Plugins](https://musthaveplugins.com/offer/) | 最大 70% 割引 | — | — |
 | [Plugin Wizards](https://pluginwizards.com/black-friday/) | 40% 割引 | — | `WIZARDS40` |
@@ -259,6 +295,8 @@
 | [Scrollsequence](https://beta.scrollsequence.com/black-friday-cyber-monday-deals) | 50% 割引 | — | — |
 | [Shadcn.io](https://www.shadcn.io/pricing) | 特典を確認 | — | — |
 | [ShipAhead](https://shipahe.ad/) | 50% 割引 | — | — |
+| [Siter.io](https://siter.io/black-friday) | 35% 割引 · 初回支払い · 2026-11-16–2026-12-01 | $54.60 / 年 · Solo, 初年度 | `BLACKFRIDAY35` |
+| [Slides by Designmodo](https://designmodo.com/black-friday/) | 最大 40% 割引 · 年払いプラン · 2026-11-30 まで | — | `BLACK` |
 | [SportyBlocks](https://sportyblocks.com/?discount=BLACKFRIDAY) | 40% 割引 | $29.00 · ライセンス | `BLACKFRIDAY` |
 | [Systeme.io](https://blackfriday.systeme.io/) | 40% 割引 | $170.00 / 年 · Startup | — |
 | [Wordify](https://wordify.com/black-friday/) | 50% 割引 | — | `BF50` |
@@ -278,25 +316,31 @@
 | [ActiveDock 2](https://noteifyapp.com/activedock/) | 30% 割引 | $41.99 · 買い切り・無期限 | `MACPLUSBLACKFRIDAY26` |
 | [Aevo](https://aevo.so/en) | 30% 割引 | — | — |
 | [Almighty](https://indiegoodies.com/almighty) | 50% 割引 | $7.49 · 買い切り・無期限 | `INDIEGOODIESBF26` |
+| [AntShot](https://antshot.com/) | 35% 割引 | $25.35 · 無期限 | `BLACKFRIDAY26` |
 | [AppsByMo](https://appsbymo.app/) | 50% 割引 | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | 25% 割引 | $30.00 · 一括払い | `BLACKFRIDAY26` |
 | [Beaming](https://trybeaming.app/) | 40% 割引 | — | `BLACKFRIDAY40` |
+| [Check Engine SEO](https://checkengineseo.com/pricing/) | ブラックフライデーセール · 2026-12-02 まで | $19.99 · 一括払い | — |
+| [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | 50% 割引 Lifetime (通常価格 $14.99 USD) | $7.49 USD · 無期限 | `BFCM26` |
 | [Chronoid](https://www.chronoid.app/pricing) | 50% 割引 | $74.50 · 買い切り・無期限 | `BLACKFRIDAY26` |
 | [Chute](https://appsbymo.app/chute/) | 50% 割引 | — | `BLACKFRIDAY` |
 | [Circleback](https://circleback.ai/pricing) | 特典を確認 | — | — |
+| [Clappia](https://www.clappia.com/black-friday-offer) | 50% 割引 · 年払い、新規顧客限定 · 2026-12-31 まで | — | `BLACKFRD` |
 | [Classic Commander](https://noteifyapp.com/classic-commander/) | 30% 割引 | — | `MACPLUSBLACKFRIDAY26` |
 | [CleanClip](https://pricing.cleanclip.cc/src) | 30% 割引 | $20.99 · 一括払い | `BF2026` |
 | [Clipboard Manager Pro](https://clipboardman.com/) | 35% 割引 | $15.59 / 年 | `BF2026` |
 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | 30% 割引 | $20.99 · 買い切り・無期限 | `MACPLUSBLACKFRIDAY26` |
 | [CoolDock](https://cooldock.app/) | 50% 割引 | €19.99 · 買い切り・無期限 | `BLACK2026FRIDAY50` |
 | [Cozy](https://cozyjournal.app/) | 50% 割引 | $24.50 · 一括払い | `BLACKFRIDAY` |
-| [Crisp](https://crispvideo.app/pricing/) | 50% 割引 | $14.50 · 一括払い | — |
+| [Crisp](https://crispvideo.app/pricing/) | ブラックフライデーセール · 2026-12-02 まで | $9.99 · 一括払い | — |
 | [Cue (AppsByMo)](https://appsbymo.app/cue/) | 50% 割引 | $14.50 · 一括払い | `BLACKFRIDAY` |
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | 25% 割引 Pro | $18.90 · 買い切り・無期限 | `BLACKFRIDAY2026` |
+| [datacheck.cc](https://datacheck.cc/en/pricing) | 30% 割引 · 買い切りパックと無期限ライセンス | HK$81.20 から · 一括払い | — |
 | [Dayora](https://www.dayora.ai/black-friday) | 40% 割引 | $43.20 / 年 | — |
 | [Deckloud](https://deckloud.com/black-friday/) | 40% 割引 | $22.99 · 買い切り・無期限 | `BF2026` |
+| [Deletti](https://deletti.app/#black-friday) | 50% 割引 Single Lifetime (通常価格 $17.99 USD) | $8.99 USD · 無期限 | `BFCM26` |
 | [Dictionaries](https://dictionaries.io/) | 50% 割引 | $9.99 · 買い切り・無期限 | `BF26` |
-| [Docket](https://docketseo.app/) | 50% 割引 | $29.50 · 一括払い | — |
+| [DiskMate](https://diskmate.app) | 50% 割引 | $5.00 · 無期限 | — |
 | [DockFlow](https://dockflowapp.io/) | 50% 割引 | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | 最大 50% 割引 | 最低価格 $12.99 · 買い切り・無期限 | — |
 | [DockView 2](https://noteifyapp.com/dockview/) | 30% 割引 | $34.99 · 買い切り・無期限 | `MACPLUSBLACKFRIDAY26` |
@@ -309,9 +353,11 @@
 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | 50% 割引 | $29.99 · 買い切り・無期限 | — |
 | [ExtraBar](https://extrabar.app/) | 50% 割引 | — | `BLACK2026FRIDAY50` |
 | [ExtraDock](https://extradock.app/) | 50% 割引 | €19.99 · 買い切り・無期限 | `BLACK2026FRIDAY50` |
+| [Fadeclock](https://fadeclock.app/#price) | 50% 割引 · 2026-11-30 まで (PT) | $6.00 · 一括払い | `BF2026` |
 | [FileOctopus](https://www.fileoctopus.com/black-friday.html) | 50% 割引 | $14.99 · 一括払い, 2 Macs | `BLACKFRIDAY2026` |
 | [Files to Notion](https://www.files2notion.com/) | 20% 割引 | $31.20 · 一括払い | `BLACK2026FRIDAY` |
 | [Fileside](https://www.fileside.app/) | 50% 割引 | $16.50 · 買い切り・無期限 | `BLKFRD26` |
+| [Float](https://float.gilla.fun/#pricing) | 40% 割引 · 2026-11-26–2026-12-01 (PT) | $2.99 · 無期限 | `BF26FLOAT` |
 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | 30% 割引 | — | — |
 | [Fresh Notch](https://freshnotch.com/#pricing) | 特典を確認 | — | `BFRIDAY` |
 | [Gramcheck](https://extensions.loopspec.com/gramcheck) | 51% 割引 | $19.00 · 一括払い | — |
@@ -329,6 +375,8 @@
 | [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 30% 割引 | アプリにより異なる | `MACPLUSBLACKFRIDAY26` |
 | [Margin](https://appsbymo.app/margin/) | 50% 割引 | $4.99 · Mac App Store | `BLACKFRIDAY` |
 | [MeetingDebrief](https://meetingdebrief.com/) | 35% 割引 | — | `BFCM2026` |
+| [MeetMic](https://meetmic.app/buy) | 55% 割引 · 無期限 · 2026-11-23–2026-12-10 | $26.55 · 無期限 | `BF26` |
+| [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 40% 割引 | $29.99 · 無期限 | — |
 | [MouseUp](https://mouseup.app/pricing) | 50% 割引 | $4.00 · 買い切り・無期限 | `MMFBF2026` |
 | [MultiDock 2](https://noteifyapp.com/multidock/) | 30% 割引 | $27.99 · 買い切り・無期限 | `MACPLUSBLACKFRIDAY26` |
 | [MuteDeck](https://mutedeck.com/) | 35% 割引 | — | `BFCM2026` |
@@ -336,9 +384,11 @@
 | [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | 50% 割引 | — | — |
 | [Noteline](https://noteline.io/pricing) | 50% 割引 | — | — |
 | [OkayTab](https://okaytab.app/) | 30% 割引 · 初回請求期間 | $2.51 · 初月 | `BLACKFRIDAY2026` |
-| [Outlier](https://outlier.host/) | 50% 割引 | $24.50 · 一括払い | — |
+| [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | 50% 割引 · 初年度または最初の 3 か月 | US$50.00 から / 年 · 初年度; US$5.00 から / 月 · 最初の 3 か月 | — |
+| [Outlier](https://outlier.host/pricing/) | ブラックフライデーセール · 2026-12-02 まで | $16.99 · 一括払い | — |
 | [Overcal](https://indiegoodies.com/overcal) | 50% 割引 | $3.99 · 買い切り・無期限 | `INDIEGOODIESBF26` |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% 割引 | — | — |
+| [Paste](https://pasteapp.io/black-friday-2026) | 50% 割引 · 初年度 | $14.99 / 年 · 初年度 | `BLACKFRIDAY2026` |
 | [PastePal](https://indiegoodies.com/pastepal) | 50% 割引 | $7.49 · 買い切り・無期限 | `INDIEGOODIESBF26` |
 | [PeakHour](https://peakhour.app/) | 30% 割引 | $34.99 · 買い切り・無期限 | — |
 | [Perch](https://perch.run/black-friday) | 40% 割引 | $17.40 · 買い切り・無期限 | `BLACKFRIDAY2026` |
@@ -355,12 +405,14 @@
 | [ShiftPlus](https://shiftplus.app/black-friday/) | 40% 割引 | 最低価格 $14.40 · 買い切り・無期限 | — |
 | [Shiori](https://shioriapp.io/) | 50% 割引 | — | `BLACK2026FRIDAY50` |
 | [SlapMac](https://slapmac.com/) | 30% 割引 | $9.09 · 一括払い | `BLACKFRIDAY26` |
+| [Snapperon](https://snapperon.com/) | 50% 割引 · 最初の 12 か月、初年度、または買い切り | US$1.00 / 月 · 最初の 12 か月; US$10.00 / 年 · 初年度; US$19.50 · 無期限 | `BLACKFRIDAY26` |
 | [Soluna](https://appsbymo.app/soluna/) | 50% 割引 | — | `BLACKFRIDAY` |
 | [SpaceBroom](https://spacebroom.app/en/) | 30% 割引 | — | `BLACKFRIDAY26` |
 | [Spacepal](https://getspacepal.com/black-friday/) | 20% 割引 | $7.99 · 一括払い | — |
 | [SpaceWise 2.0 (Mac)](https://www.spacewisemac.in/pricing) | 特典を確認 | — | — |
 | [Stage View](https://noteifyapp.com/stage-view/) | 30% 割引 | $5.59 · 買い切り・無期限 | `MACPLUSBLACKFRIDAY26` |
 | [SubManager](https://submanager.app/) | 50% 割引 | $4.99 · 買い切り・無期限 | — |
+| [Sum](https://sumtranscribe.com/pricing) | 50% 割引 · Sum Pro ウェブ版の初月または初年度, 2026-11-30 まで (米国東部時間) | — | `SUMBF50` |
 | [SupaSidebar](https://supasidebar.com/) | 50% 割引 | $39.50 · 買い切り・無期限 | `SIDEBARBF50` |
 | [SuperTab 7](https://noteifyapp.com/supertab/) | 30% 割引 | $34.99 · 買い切り・無期限 | `MACPLUSBLACKFRIDAY26` |
 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | 30% 割引 | $27.99 · 買い切り・無期限 | `MACPLUSBLACKFRIDAY26` |
@@ -372,6 +424,7 @@
 | [Todowing](https://todowing.com/) | 40% 割引 | $5.99 · 買い切り・無期限 | `BF2026` |
 | [Transcrybe](https://transcrybe.app/) | 50% 割引 | — | — |
 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | 30% 割引 | $20.99 · 買い切り・無期限 | `MACPLUSBLACKFRIDAY26` |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | 30.8% 割引 | US$8.99 · 一括払い | — |
 | [Typefu](https://indiegoodies.com/typefu) | 50% 割引 | $3.99 · 買い切り・無期限 | `INDIEGOODIESBF26` |
 | [Upto](https://macupto.com/) | 10% 割引 | $13.49 / 初年度 · 5 Macs | `UPTOBLACKFRIDAY` |
 | [Vigil](https://appsbymo.app/vigil/) | 50% 割引 | — | `BLACKFRIDAY` |
@@ -381,6 +434,7 @@
 | [Wick](https://appsbymo.app/wick/) | 50% 割引 | — | `BLACKFRIDAY` |
 | [Winch](https://getwinch.app/#pricing) | 30% 割引 | $27.30 · 一括払い, 2 Macs | `BLACKFRIDAY2026` |
 | [Wins](https://wins.cool/) | 40% 割引 | — | `BF_26` |
+| [Wishbar](https://wishbar.app/black-friday) | 50% 割引 | $19.00 · 一括払い | — |
 | [XFlow](https://foxecom.com/pages/bfcm-2026) | 35% 割引 | — | — |
 | [Y-Pod](https://www.y-pod.app/#black-friday) | 50% 割引 | $49.99 · 買い切り・無期限 | — |
 | [Yonder](https://appsbymo.app/yonder/) | 50% 割引 | — | `BLACKFRIDAY` |
@@ -396,10 +450,14 @@
 | 製品 | 割引 | セール価格 | コード |
 | --- | --- | --- | --- |
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% 割引 | — | `BLACKFRIDAY26` |
+| [Appfigures](https://appfigures.com/platform/pricing) | 50% 割引 · 12 か月間、月額最大 $200 割引 | — | `BF2650` |
+| [ASO Atlas](https://asoatlas.com/) | 30% 割引 · 年払いプランの初年度 | $70.00 / 年 · 初年度 | `BLACKWEEK30` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% 割引 | $39.20 · レポート | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% 割引 · 最初の 6 か月 | — | — |
+| [BizPeel](https://bizpeel.com/pricing) | 50% 割引 · 初月; 20% 割引 · 初年度 | $14.95 から / 月 · Starter, 初月 | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 割引 · 買い切りライセンス | $150.00 · 一括払い、Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | 特典を確認 | — | — |
+| [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | 87% 割引 · 11 製品の買い切りセット | $129.00 · 一括払い | `BUNDLE129` |
 | [Chatbase](https://www.chatbase.co/pricing) | 特典を確認 | — | — |
 | [Citation Rocket](https://www.citationrocket.com/pricing) | 40% 割引 · 無期限ライセンス | $59.00 · 一括払い、Lifetime | — |
 | [CiteWing](https://citewing.com/) | Pro が 36% 割引、掲載申請が 50% 割引 | $95.00 / 月 · Pro | — |
@@ -408,18 +466,24 @@
 | [DataFast](https://datafa.st/) | 特典を確認 | — | — |
 | [Digital Carnage](https://digitalcarnage.info/) | 25% 割引 | — | — |
 | [Directify](https://directify.app/founders) | 56% 割引 | $599.00 / 2 年 · Growth | — |
+| [Directory Ideas](https://directoryideas.ai/) | 33% 割引 · 無期限 | $59.00 · 一括払い, Lifetime | — |
 | [EngageBay](https://www.engagebay.com/offer) | 40% 割引 | — | — |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | 特典を確認 | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | 特典を確認 | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% 割引 | $159.00 / 月 · Growth | — |
+| [HeyStream](https://heystream.com/pricing?coupon=BF2026) | 40% 割引 · Launch、Growth、Scale の年払い初年度、新規顧客限定 · 体験版への登録が必要 | US$1,072.80 / 年 · Growth, 初年度 | `BF2026` |
+| [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | 40% 割引 · Starter、Growth、Success の年払い初年度、新規顧客限定 · 体験版への登録が必要 | US$234.00 / 年 · Starter, 初年度 | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | 特典を確認 | — | — |
+| [Highseat](https://highseat.com/pricing?billing=yearly) | 40% 割引 · 年払い初年度、新規顧客限定 | $54.00 から / 年 · 初年度 | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% 割引 | — | — |
+| [Keyword Race](https://keywordrace.com/) | 約 40% 割引 · 無期限 | $35.00 · 一括払い | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% 割引 · 最初の 3 か月 | 最低価格 $14.00 / 月 · 最初の 3 か月 | — |
 | [LandinTools](https://tools.landin.page/advertise) | 50% 割引 | $24.50 / 年 · 注目掲載枠 | `BF2026` |
 | [Later](https://later.com/black-friday-sale/) | 6 か月無料 | $37.50 / 月 · 年払い | — |
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | 30% 割引 | $147.00 / 年 | `BLACKFRIDAY2026` |
 | [MagicPost](https://magicpost.in/blog/magicpost-black-friday) | 最大 60% 割引 | 最低価格 $19.00 / 月 · 年払い | — |
 | [MailCheap](https://mailcheap.ai/pricing) | 特典を確認 | — | — |
+| [Mailtea](https://mailtea.app/pricing#black-friday) | 3 か月無料 · 新規顧客限定、先着 100 件 | $0.00 · Pro 25K の最初の 3 か月、その後 $16.00 / 月 | `BLACKFRIDAY26` |
 | [Nuelink](https://offer.nuelink.com/mcp/) | 50% 割引 · 年払い | $144.00 / 年 · Standard, 初年度 | `BFCM26` |
 | [Omnisend](https://www.omnisend.com/bfcm/) | 30% 割引 | — | — |
 | [OmniSocials](https://omnisocials.com/pricing) | 特典を確認 | — | — |
@@ -430,6 +494,7 @@
 | [Pagerly](https://pagerly.io/) | 20% 割引 | — | `BF20` |
 | [Picmim](https://picmim.com/) | 50% 割引 | — | `PICMIM50` |
 | [Portico](https://portico.run/lifetime) | 25% 割引 | 最低価格 $37.00 · 買い切り・無期限 | — |
+| [Postcards by Designmodo](https://designmodo.com/black-friday/) | 最大 40% 割引 · 年払いプラン · 2026-11-30 まで | — | `BLACK` |
 | [Posteady](https://www.posteady.com/black-friday?promo=BF26) | 50% 割引 | $174.00 / 年 | `BF26` |
 | [Postiz](https://postiz.com/pricing) | 特典を確認 | — | — |
 | [Quotion](https://quotion.co/#pricing) | 30% 割引 | $8.40 / 月 | `BLACKFRIDAY2026` |
@@ -439,6 +504,7 @@
 | [Rapid Indexer](https://rapid-indexer.com/) | 最大 40% の追加クレジット | チャージ額により異なる | — |
 | [Referly Atlas](https://www.referly.so/atlas/ltd) | 最大 78% 割引 | 最低価格 $299.00 · 一括払い | — |
 | [RenewRoster](https://renewroster.com/pricing) | 50% 割引 | $75.00 / 年 | — |
+| [Sabi](https://meetsabi.com/pages/blackfriday) | 約 50% 割引 · Sabi Pro 6 か月 | US$495.00 / 6 か月 | — |
 | [Semrush](https://semrush.sjv.io/e4x4N1) | 最大 17% 割引 | — | — |
 | [Sender](https://www.sender.net/pricing/) | 特典を確認 | — | — |
 | [Sequenzy](https://sequenzy.com/black-friday) | 30% 割引 | 最低価格 $143.50 / 年 | `BLACKFRIDAY` |
@@ -450,6 +516,7 @@
 | [Terlido](https://terlido.com/pricing) | 40% 割引 | 最低価格 $23.40 / ユーザー / 月 · Email Pro | `BF2026` |
 | [Tickabee](https://tickabee.com/black-friday-2026) | 50% 割引 | $9.50 / 月 | `OFF50` |
 | [Umami Manager](https://apps.apple.com/de/app/umami-analytics-manager/id6462423358) | 25% 割引 | — | — |
+| [Unspam.email](https://unspam.email/black-friday) | 35% 割引 · 初回請求 · 2026-11-16–2026-12-01 | — | `BLACKFRIDAY35` |
 | [Updately](https://updately.ai/) | 20% 割引 | — | `BF20` |
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 72% 割引 | — | `BFCM72` |
 | [Vemetric](https://vemetric.com/) | 30% 割引 | — | `BF2026` |

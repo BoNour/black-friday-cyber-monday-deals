@@ -49,11 +49,13 @@
 | --- | --- | --- | --- |
 | [1Password](https://1password.com/pricing/password-manager) | 약 25% 할인 · 첫해 | 최저 $2.99 / 월 · 연간 결제 | — |
 | [anon.li](https://anon.li/pricing) | 40% 할인 · 첫해 | $41.69 / 년 · Plus, 첫해 | `BLKFRI40` |
+| [AppSecD](https://dedsecops.com/pricing) | 30% 할인 · 모든 유료 요금제 | $14부터 / 월 · Starter | — |
 | [Aster Mail](https://astermail.org/) | 50% 할인 | $4.49 / 월 | — |
 | [CyberGhost](https://www.cyberghostvpn.com/) | 83% 할인 | $61.32 / 28 개월 | — |
 | [ExpressVPN](https://www.expressvpn.com/pricing) | 최대 80% 할인 | 최저 $83.72 / 28 개월 | — |
 | [Imunify360](https://www.imunify360.com/) | 최대 40% 할인 | — | — |
 | [IPVanish](https://www.ipvanish.com/black-friday/) | 혜택 보기 | 최저 $2.19 / 월 · 2년 요금제 | — |
+| [Leave Me Alone](https://leavemealone.com/pricing/) | 83% 할인 · Unlimited 연간 요금제 | $59 / 년 · 받은편지함 무제한, 갱신 시 동일 가격 | — |
 | [NordPass](https://nordpass.com/black-friday/) | 최대 50% 할인 · 연간 | — | — |
 | [NordVPN](https://nordvpn.com/black-friday/) | 최대 78% 할인 | 최저 $3.49 / 월 · 선결제 요금제 | — |
 | [OffSeq Breach](https://breach.offseq.com/en#pricing) | 50% 할인 | — | `BLACK` |
@@ -65,6 +67,7 @@
 | [Proton Pass](https://proton.me/pass/black-friday) | 최대 60% 할인 | $23.88 / 년 · Plus, 첫해 | — |
 | [Proton VPN](https://protonvpn.com/black-friday) | 70% 할인 · Plus, 첫해 | $35.88 / 첫해 · Plus | — |
 | [PureVPN](https://www.purevpn.com/black-friday) | 87% 할인 | $101.55 / 5 년 | — |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | 50% 할인 Pro Lifetime (정가 $29.99 USD) | $14.99 USD · 평생 이용 | `BFCM26` |
 | [Surfshark](https://surfshark.com/pricing) | 최대 90% 할인 | 최저 $67.23 / 27 개월 | — |
 | [TinyShield](https://tinyshield.proxyman.com/pricing) | 30% 할인 | $20.30 · Standard | `BF2026` |
 
@@ -79,10 +82,13 @@
 | --- | --- | --- | --- |
 | [1bench](https://1bench.dev/black-friday) | 50% 할인 | $99.00 · 평생 이용 | `FCBF26` |
 | [Aba Search and Replace](https://www.abareplace.com/) | 50% 할인 | $15.00 · 평생 이용 | `Sale2026` |
+| [Akev](https://akev.dev/pricing) | 30% 할인 | $34.30 · 일회성 결제, Pro 라이선스 | `BLACKFRIDAY` |
+| [APIKO](https://apiko.app/) | 보너스 크레딧 10% · 유료 충전, 2026-11-27까지 (PT) | — | — |
 | [Atelier](https://appsbymo.app/atelier/) | 50% 할인 | — | `BLACKFRIDAY` |
 | [BucketMate](https://www.bucketmate.app/pricing) | 40% 할인 | $23.40 · 평생 이용 | `BF2026` |
 | [ClipAudit](https://clipaudit.app/) | 40% 할인 | — | `BLACKFRIDAY2026` |
 | [ContextClip](https://noteifyapp.com/contextclip/) | 30% 할인 | $6.99 · 표준 라이선스 | `MACPLUSBLACKFRIDAY26` |
+| [data-peek](https://www.datapeek.dev/pricing) | 40% 할인 · 2026-11-26–2026-12-01 (PT) | $17.40 / 년 · Pro | — |
 | [Device MCP](https://devicemcp.ai/pricing) | 30% 할인 | $48.30 · 평생 이용 | `BF2026` |
 | [DevIntern](https://devintern.com/pricing/) | 첫 청구서 40% 할인 · 2026년 11월 20일~12월 1일 | $59.40 · Supporter License 일회성 결제 또는 Team 첫 달 | `BLACKFRIDAY26` |
 | [DevUtils](https://devutils.com/) | 60% 할인 | — | `BLACKFRIDAY2026` |
@@ -96,16 +102,22 @@
 | [Lidnight](https://lidnight.app/en/buy/) | 50% 할인 | — | `BF50` |
 | [Looq](https://parcse.com/looq) | 10% 할인 | $9.00 · 일회성 결제 | `PARCSEBLACKFRIDAY` |
 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | 60% 할인 | $3.82 · 일회성 결제 | — |
+| [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | 약 20% 할인 · 2026-11-30까지 (PT); 500회 사용 한정 | US$4.79 · 1인용 평생 라이선스 | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) |
 | [Piloterr](https://www.piloterr.com/blackfriday) | 50% 할인 · 첫 3개월 | 최저 $24.50 / 월 · 첫 3개월 | `BLACKFRIDAY50` |
 | [PortDroid](https://portdroid.net/black-friday-2026) | 50% 할인 | $4.69 · 평생 이용 | `CYBER_2026` |
 | [Proxyman](https://proxyman.com/pricing) | 30% 할인 | $62.30 · Standard | `BF2026` |
+| [Pulsetic](https://pulsetic.com/black-friday) | 35% 할인 · 첫 결제 · 2026-11-16–2026-12-03 | $58.50 / 년 · Solo, 첫해 | `BLACKFRIDAY35` |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing) | 50% 할인 | $44.50 · 일회성 결제 | `BFCM2026` |
 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | 50% 할인 | $4.99 · 일회성 결제 | — |
+| [SaaScaffold](https://saascaffold.com/pricing) | 50% 할인 · 2026-11-21–2026-12-06 | $49.00 · 일회성 결제 | — |
+| [Social Fetch](https://www.socialfetch.dev/black-friday) | 크레딧 2배 · 신규 월간 요금제 첫 달, 신규 연간 요금제 첫 3개월 및 크레딧 팩 | $59.00 · 일회성 결제 Growth 팩, 크레딧 50,000 | — |
 | [SQLPro Studio](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12) | 최대 50% 할인 | — | — |
 | [SSH Workbench](https://sshworkbench.com/) | 50% 할인 | $99.00 · 평생 이용 | `FCBF26` |
 | [TablePlus](https://tableplus.com/pricing) | 25% 할인 | $74.25 · 일회성 결제 | `BLACK_FRIDAY_2026` |
 | [TablePro](https://tablepro.app/black-friday) | 40% 할인 | $47.40 · 일회성 결제 | `BLACKFRIDAY2026` |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | 30% 할인 | $20.30 · Standard | `BF2026` |
+| [TeaGo](https://teago.artsvit.com/) | 약 20% 할인 · 2026-11-30까지 (PT); 500회 사용 한정 | US$3.99 · 1인용 평생 라이선스 | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) |
+| [Toplify](https://toplify.app) | $40 할인 · 2026-11-15–2026-12-01 | $49.99 USD · 평생 이용 (기존 $89.99) | [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) |
 | [VMPal](https://vmpal.com/pricing) | 25% 할인 | $51.75 · 일회성 결제 | — |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 40% 할인 | $35.00 · 평생 이용 | — |
 | [WP Foreman](https://wpforeman.com/black-friday/) | 평생 이용 혜택 | 최저 $199.00 · 평생 이용, 25 사이트 | — |
@@ -124,6 +136,7 @@
 | [Cloudways](https://www.cloudways.com/en/promo-code.php) | 80% 할인 · 첫 2개월 | 최저 $2.20 / 월 · 첫 2개월 | `BFCM802` |
 | [DediRock](https://dedirock.com/) | 혜택 보기 | $9.88 / 년 | — |
 | [ESN Hosting](https://panel.esnoffical.com/plans) | 85% 할인 · 첫 달 | $0.67 · 첫 달 | — |
+| [Faivelo](https://faivelo.com/black-friday) | 80% 할인 | $12.00 / 년 | — |
 | [FlyWP](https://flywp.com/black-friday-deals/) | 평생 이용 혜택 | 최저 $249.00 · 평생 이용 | — |
 | [Hosting.com](https://hosting.com/black-friday/) | 최대 89% 할인 | — | — |
 | [Hostinger](https://www.hostinger.com/black-friday) | 최대 85% 할인 | 최저 $2.24 / 월 · 청구 기간 확인 | — |
@@ -134,6 +147,7 @@
 | [Kinsta](https://kinsta.com/black-friday/) | 연간 요금제 3개월 무료 · 월간 요금제 첫 3개월 50% 할인 · 신규 고객 한정 | — | — |
 | [PawnHoster](https://www.pawnhoster.com/vps-hosting) | 30% 할인 | — | — |
 | [SiteGround](https://www.siteground.com/web-hosting.htm) | 혜택 보기 | — | — |
+| [Static.app](https://static.app/black-friday) | 35% 할인 · 첫 결제 · 2026-11-16–2026-12-01 | $39.00 / 년 · Starter, 첫해 | `BLACKFRIDAY35` |
 | [VM6 Networks](https://www.vm6.co.uk/promotions) | 최대 60% 할인 | — | — |
 
 <a name="ai"></a>
@@ -150,8 +164,11 @@
 | [Blip AI Pro](https://www.blipai.app/) | 50% 할인 · 첫해 | — | — |
 | [BoltAI](https://boltai.com/pricing) | 40% 할인 | $239.40 · 평생 이용 | `BFCM2026` |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% 할인 | $63.00 · 평생 이용 | — |
+| [ConceptViz](https://conceptviz.app/pricing) | 평생 라이선스 혜택 | $299.00 · 평생 이용 | — |
 | [Enconvo](https://enconvo.com/pricing) | 30% 할인 · Lifetime 및 Cloud 첫 결제 · 2026년 11월 20일~12월 7일 | $41.30 · Standard, 평생 이용 | — |
+| [FastScribe](https://fastscribe.org/pricing) | $31 할인 · 첫해 및 보너스 크레딧 6,500개 · 활성 구독이 없는 계정 한정 | $89.00 / 년 · Pro, 첫해 | — |
 | [Fluent 2](https://fluentmac.app/) | 25% 할인 | $36.75 · Basic | `BF2026` |
+| [MakeMidas](https://makemidas.com/pricing) | 최대 25% 보너스 크레딧 · 크레딧 팩 | $10 · 크레딧 1,250 (기존 1,000) · 일회성 결제 | — |
 | [Mo](https://appsbymo.app/mo/) | 50% 할인 | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 30% 할인 | — | `BLFCM2026` |
 | [PDF Pals](https://pdfpals.com/buy) | Basic/Plus 20% 할인; 평생 이용 $149 | $149.00 · 평생 이용 | `BF20` |
@@ -162,6 +179,7 @@
 | [SciFig](https://scifig.ai/black-friday) | 추가 20% 할인 | $80.00 / 년 · Starter, 첫해 | — |
 | [ScribeToAny](https://scribetoany.com/) | 30% 할인 | — | — |
 | [Sintra AI](https://sintra.ai/pricing) | 혜택 보기 | — | — |
+| [Skillry](https://skillry.dev/pricing) | 50% 할인 · Pro 첫 달 또는 첫해; $80 할인 Founding Lifetime | $9.99 / 월 · 첫 달; $79.00 / 년 · 첫해; $169.00 · 평생 이용 | — |
 | [Slashspace](https://www.slashspace.ai/) | 51% 할인 | $122.01 · 평생 이용 | `BF2026` |
 | [SmartyTab](https://smartytab.app/) | 30% 할인 | $69.30 · 평생 이용 | — |
 | [Supacite](https://supacite.com/) | 평생 이용 혜택 | $89.00 초기 구간; $129.00 다음 구간 · 평생 이용 | `CITEBF` |
@@ -169,7 +187,9 @@
 | [TypingMind](https://www.typingmind.com/) | 60% 할인 | — | `BLACKFRIDAY2026` |
 | [Vinaa](https://www.vinaa.ai/) | 44% 할인 | $39.00 · 평생 이용 | — |
 | [Vogoo AI](https://vogoo.ai/black-friday) | 40% 할인 | $89.64 / 년 · Pro | — |
+| [Voibe](https://www.getvoibe.com/pricing/) | 25% 할인 · Dictation 및 Work 요금제, 2026-11-30까지 | $149.25 · Dictation 평생 이용; $299.25 · Work 평생 이용 | `BFCM26` |
 | [Wiredesk](https://wiredesk.ai/pricing) | 30% 할인 | 최저 $27.30 / 월 · 연간 결제, 첫해 | `BLACKFRIDAY2026` |
+| [Wovo](https://wovo.one/#pricing) | 50% 할인 · Pro 및 Max 연간 요금제 | $72 / 년 · Pro; $174 / 년 · Max | — |
 
 <a name="design"></a>
 
@@ -180,8 +200,10 @@
 
 | 제품 | 할인 | 할인 가격 | 코드 |
 | --- | --- | --- | --- |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | 보너스 크레딧 50% · 일회성 크레딧 팩; 최대 300 보너스 크레딧 · 대상 월간 요금제, 첫 달 | US$9.90부터 · 일회성 결제; US$19.90부터 / 월 · 첫 달 | — |
 | [Atmos](https://atmos.style/) | 최대 50% 할인 | $79.50 · 평생 이용 | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | 60% 할인 | $9.99 · 평생 이용 | — |
+| [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | 50% 할인 | $39.99 · 평생 이용 | — |
 | [Bimg AI](https://bimg.ai/black-friday) | 50% 할인 | — | — |
 | [Bindrik](https://bindrik.com/en) | 43% 할인 | $39.00 · 일회성 결제 | `BLACKFRIDAY2026` |
 | [BirdFrame](https://getbirdframe.com/#black-friday) | 33% 할인 | $19.99 · 일회성 결제 | — |
@@ -190,26 +212,33 @@
 | [Cutfac](https://cutfac.com/pricing) | 40% 할인 | 최저 $29.40 · 일회성 결제 | `BF2026` |
 | [Dabbit](https://dabbit.app/) | 30% 할인 | — | `BLACKFRIDAY` |
 | [ElevenLabs](https://elevenlabs.io/pricing) | 혜택 보기 | — | — |
+| [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) | 66% 할인 | $10.20 · 평생 이용 | `ETKBF66` |
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam) | 40% 할인 | $6.00 · 일회성 결제 | — |
 | [FaceScreen](https://facescreen.app/) | 30% 할인 | $4.19 · 일회성 결제 | `FACESCREEN30` |
+| [FixImage](https://fiximage.net/black-friday) | 크레딧 2배 · 첫 구독 기간 및 구독자용 팩, 2026-12-01까지 (PT) | — | — |
 | [FL Studio](https://www.image-line.com/specials) | 최대 50% 할인 | — | — |
 | [FluidCast](https://fluidcastapp.com/event.html) | 50% 할인 | — | `BLACKFRIDAY2026LT` |
 | [Fresible Music](https://music.fresible.com/) | 50% 할인 | — | — |
+| [Image to 3D AI](https://imageto3dai.org/black-friday) | 크레딧 2배 · 첫 구독 기간 및 구독자용 팩, 2026-12-01까지 (PT) | — | — |
+| [ImgVid](https://imgvid.net/black-friday) | 크레딧 2배 · 첫 구독 기간 및 구독자용 팩, 2026-12-01까지 (PT) | — | — |
 | [inReels](https://www.inreels.ai/pricing) | 50% 할인 | — | `BLACKFRIDAY2026` |
 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/) | 25% 할인 · 첫해 | $299.70 / 년 · Pro, 첫해 | — |
 | [Kavel](https://www.kavel.ai/pricing) | 크레딧 2배 | — | — |
 | [Kensa](https://www.kensa.cc/deals/black-friday) | 25% 할인 | — | — |
 | [KeyScreen](https://keyscreen.app/) | 30% 할인 | $4.19 · 일회성 결제 | `KEYSCREEN30` |
+| [Keystro](https://keystro.app/#pricing) | 30% 할인 · 일회성 라이선스 | $4.89 · Standard; $9.80 · Extended; $27.30 · Team | `BFKEYSTRO26` |
 | [LS Graphics](https://www.ls.graphics/) | 50% 할인 | — | — |
 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/) | 40% 할인 | — | `BLACKFRIDAY26` |
 | [MingCute Animation](https://www.mingcute.com/animation) | 30% 할인 | — | `BF2026` |
 | [MingCute ICONS](https://mgc.mingcute.com/) | 30% 할인 | — | `BF2026` |
 | [MingCute Weather](https://mgcweather.framer.website/) | 30% 할인 | — | `BF2026` |
+| [Motionflare](https://motionflare.ai/pricing) | 50% 할인 · 신규 구독 첫 달 | $14.50 / 월 · Pro, 첫 달; $49.50 / 월 · Max, 첫 달 | — |
 | [Nano Banana](https://nanobanana.org/black-friday) | 50% 할인 | — | — |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | 20% 할인 | — | — |
 | [Oil Studio](https://studio.oiloil.org/en/) | 20% 할인 ($39 출시가에서 추가 20%, 정가 $49) | $31.20 · 일회성 결제 (Mac 2대) | `BFCM2026` |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026) | 43% 할인 | $3.99 · 일회성 결제 | — |
 | [Picmal](https://picmal.app/pricing) | 50% 할인 | 최저 $14.50 · 1 Mac | `BLACKFRIDAY` |
+| [PicVideo](https://picvideo.net/black-friday) | 크레딧 2배 · 첫 구독 기간 및 구독자용 팩, 2026-12-01까지 (PT) | — | — |
 | [Pimosa](https://pimosa.app) | 40% 할인 · Personal 및 Plus | Personal $17.40 · Plus $29.40 · 일회성 결제 | `BLACKFRIDAY40` |
 | [Podwise](https://podwise.ai/) | 40% 할인 · 연간 | 최저 $42.48 / 년 | `BF2026` |
 | [Presentify](https://presentifyapp.com/) | 30% 할인 | $9.80 · 일회성 결제 | `PRESENTIFY30` |
@@ -217,6 +246,8 @@
 | [Reason Studios](https://www.reasonstudios.com/) | 최대 50% 할인 | — | — |
 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?mt=8) | 60% 할인 | $17.99 · 평생 이용 | — |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | 40% 할인 | $3.00 · 일회성 결제 | `BLACKFRIDAY26` |
+| [RemoveVideoBG.com](https://removevideobg.com/black-friday) | 크레딧 2배 · 팩 및 첫 달; 6개월분 크레딧 추가 · 신규 연간 요금제 · 2026-12-01까지 (PT) | — | — |
+| [Renderly](https://renderly.video/pricing) | 30% 할인 · 신규 구독 첫 결제 | $20.30 / 월 · Creator, 첫 달 | `BLACKFRIDAY2026` |
 | [RenderPixels](https://renderpixels.com/) | 20% 할인 | — | `BF2026` |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | 40% 할인 | $6.00 · 일회성 결제 | `BLACKFRIDAY26` |
 | [Rindraw](https://rindraw.com/black-friday-2026/) | 50% 할인 | $6.49 · 일회성 결제 | — |
@@ -234,6 +265,10 @@
 | [SmoothCut](https://smoothcut.studio/pricing) | 40% 할인 | — | `BLACKFRIDAY40` |
 | [SnapDub](https://snapdub.ai/) | 20% 할인 | — | `BLACKFRIDAY20` |
 | [Subscribr](https://subscribr.ai/pricing) | 혜택 보기 | — | — |
+| [Super Resolution](https://superresolution.pro/black-friday) | 크레딧 2배 · 첫 구독 기간 및 구독자용 팩, 2026-12-01까지 (PT) | — | — |
+| [Unraster](https://unraster.ai/pricing) | 45% 할인 · 150 크레딧 팩 | $43.95 · 일회성 결제 | `BLACKFRIDAY45` |
+| [ViralReel](https://www.viralreel.app/pricing) | 최대 30% 할인 · 일부 일회성 크레딧 팩 | US$16.00 · Popular, 크레딧 180; US$28.00 · Creator, 크레딧 480 | — |
+| [YIX](https://yix.ai/pricing) | 50% 할인 · 신규 월간 요금제 첫 달 | US$9.95부터 / 월 · Starter, 첫 달 | — |
 
 <a name="web"></a>
 
@@ -252,6 +287,7 @@
 | [Framer](https://www.framer.com/pricing) | 혜택 보기 | — | — |
 | [GutSlider Pro](https://gutslider.com/black-friday/) | 최대 40% 할인 | 최저 $69.00 · 평생 이용 | — |
 | [HextaUI Pro](https://hextaui.com/pricing) | 최대 40% 할인 | $49.00 · 얼리버드 | — |
+| [Liite Lifetime Bundle](https://liite.co/lifetime) | 83% 할인 | $249.00 · 평생 이용 | — |
 | [MingCute UI](https://ui.mingcute.com/) | 30% 할인 | — | `BF2026` |
 | [Must-Have Plugins](https://musthaveplugins.com/offer/) | 최대 70% 할인 | — | — |
 | [Plugin Wizards](https://pluginwizards.com/black-friday/) | 40% 할인 | — | `WIZARDS40` |
@@ -259,6 +295,8 @@
 | [Scrollsequence](https://beta.scrollsequence.com/black-friday-cyber-monday-deals) | 50% 할인 | — | — |
 | [Shadcn.io](https://www.shadcn.io/pricing) | 혜택 보기 | — | — |
 | [ShipAhead](https://shipahe.ad/) | 50% 할인 | — | — |
+| [Siter.io](https://siter.io/black-friday) | 35% 할인 · 첫 결제 · 2026-11-16–2026-12-01 | $54.60 / 년 · Solo, 첫해 | `BLACKFRIDAY35` |
+| [Slides by Designmodo](https://designmodo.com/black-friday/) | 최대 40% 할인 · 연간 요금제 · 2026-11-30까지 | — | `BLACK` |
 | [SportyBlocks](https://sportyblocks.com/?discount=BLACKFRIDAY) | 40% 할인 | $29.00 · 라이선스 | `BLACKFRIDAY` |
 | [Systeme.io](https://blackfriday.systeme.io/) | 40% 할인 | $170.00 / 년 · Startup | — |
 | [Wordify](https://wordify.com/black-friday/) | 50% 할인 | — | `BF50` |
@@ -278,25 +316,31 @@
 | [ActiveDock 2](https://noteifyapp.com/activedock/) | 30% 할인 | $41.99 · 평생 이용 | `MACPLUSBLACKFRIDAY26` |
 | [Aevo](https://aevo.so/en) | 30% 할인 | — | — |
 | [Almighty](https://indiegoodies.com/almighty) | 50% 할인 | $7.49 · 평생 이용 | `INDIEGOODIESBF26` |
+| [AntShot](https://antshot.com/) | 35% 할인 | $25.35 · 평생 이용 | `BLACKFRIDAY26` |
 | [AppsByMo](https://appsbymo.app/) | 50% 할인 | — | `BLACKFRIDAY` |
 | [Aurio](https://aurio.dev/) | 25% 할인 | $30.00 · 일회성 결제 | `BLACKFRIDAY26` |
 | [Beaming](https://trybeaming.app/) | 40% 할인 | — | `BLACKFRIDAY40` |
+| [Check Engine SEO](https://checkengineseo.com/pricing/) | 블랙프라이데이 할인 · 2026-12-02까지 | $19.99 · 일회성 결제 | — |
+| [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | 50% 할인 Lifetime (정가 $14.99 USD) | $7.49 USD · 평생 이용 | `BFCM26` |
 | [Chronoid](https://www.chronoid.app/pricing) | 50% 할인 | $74.50 · 평생 이용 | `BLACKFRIDAY26` |
 | [Chute](https://appsbymo.app/chute/) | 50% 할인 | — | `BLACKFRIDAY` |
 | [Circleback](https://circleback.ai/pricing) | 혜택 보기 | — | — |
+| [Clappia](https://www.clappia.com/black-friday-offer) | 50% 할인 · 연간 요금제, 신규 고객 한정 · 2026-12-31까지 | — | `BLACKFRD` |
 | [Classic Commander](https://noteifyapp.com/classic-commander/) | 30% 할인 | — | `MACPLUSBLACKFRIDAY26` |
 | [CleanClip](https://pricing.cleanclip.cc/src) | 30% 할인 | $20.99 · 일회성 결제 | `BF2026` |
 | [Clipboard Manager Pro](https://clipboardman.com/) | 35% 할인 | $15.59 / 년 | `BF2026` |
 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | 30% 할인 | $20.99 · 평생 이용 | `MACPLUSBLACKFRIDAY26` |
 | [CoolDock](https://cooldock.app/) | 50% 할인 | €19.99 · 평생 이용 | `BLACK2026FRIDAY50` |
 | [Cozy](https://cozyjournal.app/) | 50% 할인 | $24.50 · 일회성 결제 | `BLACKFRIDAY` |
-| [Crisp](https://crispvideo.app/pricing/) | 50% 할인 | $14.50 · 일회성 결제 | — |
+| [Crisp](https://crispvideo.app/pricing/) | 블랙프라이데이 할인 · 2026-12-02까지 | $9.99 · 일회성 결제 | — |
 | [Cue (AppsByMo)](https://appsbymo.app/cue/) | 50% 할인 | $14.50 · 일회성 결제 | `BLACKFRIDAY` |
 | [Cue (iOS)](https://apps.apple.com/app/id6805111378) | 25% 할인 Pro | $18.90 · 평생 이용 | `BLACKFRIDAY2026` |
+| [datacheck.cc](https://datacheck.cc/en/pricing) | 30% 할인 · 일회성 팩 및 영구 라이선스 | HK$81.20부터 · 일회성 결제 | — |
 | [Dayora](https://www.dayora.ai/black-friday) | 40% 할인 | $43.20 / 년 | — |
 | [Deckloud](https://deckloud.com/black-friday/) | 40% 할인 | $22.99 · 평생 이용 | `BF2026` |
+| [Deletti](https://deletti.app/#black-friday) | 50% 할인 Single Lifetime (정가 $17.99 USD) | $8.99 USD · 평생 이용 | `BFCM26` |
 | [Dictionaries](https://dictionaries.io/) | 50% 할인 | $9.99 · 평생 이용 | `BF26` |
-| [Docket](https://docketseo.app/) | 50% 할인 | $29.50 · 일회성 결제 | — |
+| [DiskMate](https://diskmate.app) | 50% 할인 | $5.00 · 평생 이용 | — |
 | [DockFlow](https://dockflowapp.io/) | 50% 할인 | — | `BLACK2026FRIDAY50` |
 | [DockMagic](https://dockmagic.app/#dm-pricing) | 최대 50% 할인 | 최저 $12.99 · 평생 이용 | — |
 | [DockView 2](https://noteifyapp.com/dockview/) | 30% 할인 | $34.99 · 평생 이용 | `MACPLUSBLACKFRIDAY26` |
@@ -309,9 +353,11 @@
 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | 50% 할인 | $29.99 · 평생 이용 | — |
 | [ExtraBar](https://extrabar.app/) | 50% 할인 | — | `BLACK2026FRIDAY50` |
 | [ExtraDock](https://extradock.app/) | 50% 할인 | €19.99 · 평생 이용 | `BLACK2026FRIDAY50` |
+| [Fadeclock](https://fadeclock.app/#price) | 50% 할인 · 2026-11-30까지 (PT) | $6.00 · 일회성 결제 | `BF2026` |
 | [FileOctopus](https://www.fileoctopus.com/black-friday.html) | 50% 할인 | $14.99 · 일회성 결제, 2 Macs | `BLACKFRIDAY2026` |
 | [Files to Notion](https://www.files2notion.com/) | 20% 할인 | $31.20 · 일회성 결제 | `BLACK2026FRIDAY` |
 | [Fileside](https://www.fileside.app/) | 50% 할인 | $16.50 · 평생 이용 | `BLKFRD26` |
+| [Float](https://float.gilla.fun/#pricing) | 40% 할인 · 2026-11-26–2026-12-01 (PT) | $2.99 · 평생 이용 | `BF26FLOAT` |
 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | 30% 할인 | — | — |
 | [Fresh Notch](https://freshnotch.com/#pricing) | 혜택 보기 | — | `BFRIDAY` |
 | [Gramcheck](https://extensions.loopspec.com/gramcheck) | 51% 할인 | $19.00 · 일회성 결제 | — |
@@ -329,6 +375,8 @@
 | [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 30% 할인 | 앱마다 다름 | `MACPLUSBLACKFRIDAY26` |
 | [Margin](https://appsbymo.app/margin/) | 50% 할인 | $4.99 · Mac App Store | `BLACKFRIDAY` |
 | [MeetingDebrief](https://meetingdebrief.com/) | 35% 할인 | — | `BFCM2026` |
+| [MeetMic](https://meetmic.app/buy) | 55% 할인 · 평생 이용 · 2026-11-23–2026-12-10 | $26.55 · 평생 이용 | `BF26` |
+| [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 40% 할인 | $29.99 · 평생 이용 | — |
 | [MouseUp](https://mouseup.app/pricing) | 50% 할인 | $4.00 · 평생 이용 | `MMFBF2026` |
 | [MultiDock 2](https://noteifyapp.com/multidock/) | 30% 할인 | $27.99 · 평생 이용 | `MACPLUSBLACKFRIDAY26` |
 | [MuteDeck](https://mutedeck.com/) | 35% 할인 | — | `BFCM2026` |
@@ -336,9 +384,11 @@
 | [NewsNinja](https://apps.apple.com/us/app/ai-rss-reader-newsninja/id6504148117?platform=vision) | 50% 할인 | — | — |
 | [Noteline](https://noteline.io/pricing) | 50% 할인 | — | — |
 | [OkayTab](https://okaytab.app/) | 30% 할인 · 첫 청구 기간 | $2.51 · 첫 달 | `BLACKFRIDAY2026` |
-| [Outlier](https://outlier.host/) | 50% 할인 | $24.50 · 일회성 결제 | — |
+| [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | 50% 할인 · 첫해 또는 첫 3개월 | US$50.00부터 / 년 · 첫해; US$5.00부터 / 월 · 첫 3개월 | — |
+| [Outlier](https://outlier.host/pricing/) | 블랙프라이데이 할인 · 2026-12-02까지 | $16.99 · 일회성 결제 | — |
 | [Overcal](https://indiegoodies.com/overcal) | 50% 할인 | $3.99 · 평생 이용 | `INDIEGOODIESBF26` |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% 할인 | — | — |
+| [Paste](https://pasteapp.io/black-friday-2026) | 50% 할인 · 첫해 | $14.99 / 년 · 첫해 | `BLACKFRIDAY2026` |
 | [PastePal](https://indiegoodies.com/pastepal) | 50% 할인 | $7.49 · 평생 이용 | `INDIEGOODIESBF26` |
 | [PeakHour](https://peakhour.app/) | 30% 할인 | $34.99 · 평생 이용 | — |
 | [Perch](https://perch.run/black-friday) | 40% 할인 | $17.40 · 평생 이용 | `BLACKFRIDAY2026` |
@@ -355,12 +405,14 @@
 | [ShiftPlus](https://shiftplus.app/black-friday/) | 40% 할인 | 최저 $14.40 · 평생 이용 | — |
 | [Shiori](https://shioriapp.io/) | 50% 할인 | — | `BLACK2026FRIDAY50` |
 | [SlapMac](https://slapmac.com/) | 30% 할인 | $9.09 · 일회성 결제 | `BLACKFRIDAY26` |
+| [Snapperon](https://snapperon.com/) | 50% 할인 · 첫 12개월, 첫해 또는 평생 라이선스 | US$1.00 / 월 · 첫 12개월; US$10.00 / 년 · 첫해; US$19.50 · 평생 이용 | `BLACKFRIDAY26` |
 | [Soluna](https://appsbymo.app/soluna/) | 50% 할인 | — | `BLACKFRIDAY` |
 | [SpaceBroom](https://spacebroom.app/en/) | 30% 할인 | — | `BLACKFRIDAY26` |
 | [Spacepal](https://getspacepal.com/black-friday/) | 20% 할인 | $7.99 · 일회성 결제 | — |
 | [SpaceWise 2.0 (Mac)](https://www.spacewisemac.in/pricing) | 혜택 보기 | — | — |
 | [Stage View](https://noteifyapp.com/stage-view/) | 30% 할인 | $5.59 · 평생 이용 | `MACPLUSBLACKFRIDAY26` |
 | [SubManager](https://submanager.app/) | 50% 할인 | $4.99 · 평생 이용 | — |
+| [Sum](https://sumtranscribe.com/pricing) | 50% 할인 · Sum Pro 웹 결제 첫 달 또는 첫해, 2026-11-30까지 (미국 동부 시간) | — | `SUMBF50` |
 | [SupaSidebar](https://supasidebar.com/) | 50% 할인 | $39.50 · 평생 이용 | `SIDEBARBF50` |
 | [SuperTab 7](https://noteifyapp.com/supertab/) | 30% 할인 | $34.99 · 평생 이용 | `MACPLUSBLACKFRIDAY26` |
 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | 30% 할인 | $27.99 · 평생 이용 | `MACPLUSBLACKFRIDAY26` |
@@ -372,6 +424,7 @@
 | [Todowing](https://todowing.com/) | 40% 할인 | $5.99 · 평생 이용 | `BF2026` |
 | [Transcrybe](https://transcrybe.app/) | 50% 할인 | — | — |
 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | 30% 할인 | $20.99 · 평생 이용 | `MACPLUSBLACKFRIDAY26` |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | 30.8% 할인 | US$8.99 · 일회성 결제 | — |
 | [Typefu](https://indiegoodies.com/typefu) | 50% 할인 | $3.99 · 평생 이용 | `INDIEGOODIESBF26` |
 | [Upto](https://macupto.com/) | 10% 할인 | $13.49 / 첫해 · 5 Macs | `UPTOBLACKFRIDAY` |
 | [Vigil](https://appsbymo.app/vigil/) | 50% 할인 | — | `BLACKFRIDAY` |
@@ -381,6 +434,7 @@
 | [Wick](https://appsbymo.app/wick/) | 50% 할인 | — | `BLACKFRIDAY` |
 | [Winch](https://getwinch.app/#pricing) | 30% 할인 | $27.30 · 일회성 결제, 2 Macs | `BLACKFRIDAY2026` |
 | [Wins](https://wins.cool/) | 40% 할인 | — | `BF_26` |
+| [Wishbar](https://wishbar.app/black-friday) | 50% 할인 | $19.00 · 일회성 결제 | — |
 | [XFlow](https://foxecom.com/pages/bfcm-2026) | 35% 할인 | — | — |
 | [Y-Pod](https://www.y-pod.app/#black-friday) | 50% 할인 | $49.99 · 평생 이용 | — |
 | [Yonder](https://appsbymo.app/yonder/) | 50% 할인 | — | `BLACKFRIDAY` |
@@ -396,10 +450,14 @@
 | 제품 | 할인 | 할인 가격 | 코드 |
 | --- | --- | --- | --- |
 | [Airbridge](https://www.airbridge.io/en/black-friday) | 50% 할인 | — | `BLACKFRIDAY26` |
+| [Appfigures](https://appfigures.com/platform/pricing) | 50% 할인 · 12개월간 매월 최대 $200 할인 | — | `BF2650` |
+| [ASO Atlas](https://asoatlas.com/) | 30% 할인 · 연간 요금제 첫해 | $70.00 / 년 · 첫해 | `BLACKWEEK30` |
 | [AUTX AI Visibility Check](https://autx.ai/) | 20% 할인 | $39.20 · 보고서 | `LAUNCH20` |
 | [BearConnect](https://bearconnect.io/pricing/) | 50% 할인 · 첫 6개월 | — | — |
+| [BizPeel](https://bizpeel.com/pricing) | 50% 할인 · 첫 달; 20% 할인 · 첫해 | $14.95부터 / 월 · Starter, 첫 달 | — |
 | [Broadcast](https://sendbroadcast.net/black-friday) | $100 할인 · 일회성 라이선스 | $150.00 · 일회성 결제, Regular License | `BLACKFRIDAY26` |
 | [Buffer](https://buffer.com/pricing) | 혜택 보기 | — | — |
+| [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | 87% 할인 · 11개 제품 평생 번들 | $129.00 · 일회성 결제 | `BUNDLE129` |
 | [Chatbase](https://www.chatbase.co/pricing) | 혜택 보기 | — | — |
 | [Citation Rocket](https://www.citationrocket.com/pricing) | 40% 할인 · 평생 라이선스 | $59.00 · 일회성 결제, Lifetime | — |
 | [CiteWing](https://citewing.com/) | Pro 36% 할인; 등록 서비스 50% 할인 | $95.00 / 월 · Pro | — |
@@ -408,18 +466,24 @@
 | [DataFast](https://datafa.st/) | 혜택 보기 | — | — |
 | [Digital Carnage](https://digitalcarnage.info/) | 25% 할인 | — | — |
 | [Directify](https://directify.app/founders) | 56% 할인 | $599.00 / 2 년 · Growth | — |
+| [Directory Ideas](https://directoryideas.ai/) | 33% 할인 · 평생 이용 | $59.00 · 일회성 결제, Lifetime | — |
 | [EngageBay](https://www.engagebay.com/offer) | 40% 할인 | — | — |
 | [Fathom Analytics](https://usefathom.com/docs/account/discount-code) | 혜택 보기 | — | — |
 | [Fyxer](https://partners.fyxer.com/bergside) | 혜택 보기 | — | — |
 | [Growave](https://www.growave.io/bfcm-deals) | 20% 할인 | $159.00 / 월 · Growth | — |
+| [HeyStream](https://heystream.com/pricing?coupon=BF2026) | 40% 할인 · Launch, Growth, Scale 연간 요금제 첫해, 신규 고객 한정 · 체험판 신청 필수 | US$1,072.80 / 년 · Growth, 첫해 | `BF2026` |
+| [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | 40% 할인 · Starter, Growth, Success 연간 요금제 첫해, 신규 고객 한정 · 체험판 신청 필수 | US$234.00 / 년 · Starter, 첫해 | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | 혜택 보기 | — | — |
+| [Highseat](https://highseat.com/pricing?billing=yearly) | 40% 할인 · 연간 요금제 첫해, 신규 고객 한정 | $54.00부터 / 년 · 첫해 | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% 할인 | — | — |
+| [Keyword Race](https://keywordrace.com/) | 약 40% 할인 · 평생 이용 | $35.00 · 일회성 결제 | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% 할인 · 첫 3개월 | 최저 $14.00 / 월 · 첫 3개월 | — |
 | [LandinTools](https://tools.landin.page/advertise) | 50% 할인 | $24.50 / 년 · 추천 등록 | `BF2026` |
 | [Later](https://later.com/black-friday-sale/) | 6개월 무료 | $37.50 / 월 · 연간 결제 | — |
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | 30% 할인 | $147.00 / 년 | `BLACKFRIDAY2026` |
 | [MagicPost](https://magicpost.in/blog/magicpost-black-friday) | 최대 60% 할인 | 최저 $19.00 / 월 · 연간 결제 | — |
 | [MailCheap](https://mailcheap.ai/pricing) | 혜택 보기 | — | — |
+| [Mailtea](https://mailtea.app/pricing#black-friday) | 3개월 무료 · 신규 고객, 선착순 100회 사용 | $0.00 · Pro 25K 첫 3개월, 이후 $16.00 / 월 | `BLACKFRIDAY26` |
 | [Nuelink](https://offer.nuelink.com/mcp/) | 50% 할인 · 연간 | $144.00 / 년 · Standard, 첫해 | `BFCM26` |
 | [Omnisend](https://www.omnisend.com/bfcm/) | 30% 할인 | — | — |
 | [OmniSocials](https://omnisocials.com/pricing) | 혜택 보기 | — | — |
@@ -430,6 +494,7 @@
 | [Pagerly](https://pagerly.io/) | 20% 할인 | — | `BF20` |
 | [Picmim](https://picmim.com/) | 50% 할인 | — | `PICMIM50` |
 | [Portico](https://portico.run/lifetime) | 25% 할인 | 최저 $37.00 · 평생 이용 | — |
+| [Postcards by Designmodo](https://designmodo.com/black-friday/) | 최대 40% 할인 · 연간 요금제 · 2026-11-30까지 | — | `BLACK` |
 | [Posteady](https://www.posteady.com/black-friday?promo=BF26) | 50% 할인 | $174.00 / 년 | `BF26` |
 | [Postiz](https://postiz.com/pricing) | 혜택 보기 | — | — |
 | [Quotion](https://quotion.co/#pricing) | 30% 할인 | $8.40 / 월 | `BLACKFRIDAY2026` |
@@ -439,6 +504,7 @@
 | [Rapid Indexer](https://rapid-indexer.com/) | 최대 40% 추가 크레딧 | 충전 금액에 따라 다름 | — |
 | [Referly Atlas](https://www.referly.so/atlas/ltd) | 최대 78% 할인 | 최저 $299.00 · 일회성 결제 | — |
 | [RenewRoster](https://renewroster.com/pricing) | 50% 할인 | $75.00 / 년 | — |
+| [Sabi](https://meetsabi.com/pages/blackfriday) | 약 50% 할인 · Sabi Pro 6개월 | US$495.00 / 6개월 | — |
 | [Semrush](https://semrush.sjv.io/e4x4N1) | 최대 17% 할인 | — | — |
 | [Sender](https://www.sender.net/pricing/) | 혜택 보기 | — | — |
 | [Sequenzy](https://sequenzy.com/black-friday) | 30% 할인 | 최저 $143.50 / 년 | `BLACKFRIDAY` |
@@ -450,6 +516,7 @@
 | [Terlido](https://terlido.com/pricing) | 40% 할인 | 최저 $23.40 / 사용자 / 월 · Email Pro | `BF2026` |
 | [Tickabee](https://tickabee.com/black-friday-2026) | 50% 할인 | $9.50 / 월 | `OFF50` |
 | [Umami Manager](https://apps.apple.com/de/app/umami-analytics-manager/id6462423358) | 25% 할인 | — | — |
+| [Unspam.email](https://unspam.email/black-friday) | 35% 할인 · 첫 청구서 · 2026-11-16–2026-12-01 | — | `BLACKFRIDAY35` |
 | [Updately](https://updately.ai/) | 20% 할인 | — | `BF20` |
 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | 72% 할인 | — | `BFCM72` |
 | [Vemetric](https://vemetric.com/) | 30% 할인 | — | `BF2026` |
